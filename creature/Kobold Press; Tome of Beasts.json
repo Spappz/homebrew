@@ -2800,7 +2800,7 @@
 			"fluff": {
 				"images": [
 					{
-						"type": "images",
+						"type": "image",
 						"href": {
 							"type": "external",
 							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Akyishigal.webp"
@@ -9857,7 +9857,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Bandit Lord.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Bastet Temple Cat.webp"
 						}
 					}
 				],
@@ -11214,7 +11214,7 @@
 			"fluff": {
 				"images": [
 					{
-						"type": "external",
+						"type": "image",
 						"href": {
 							"type": "external",
 							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Black Knight Commander.webp"
@@ -16163,7 +16163,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/City Watch Captain.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Clockwork Abomination.webp"
 						}
 					}
 				],
@@ -18092,7 +18092,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Corupted Ogre Chieftain.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Corrupted Ogre Chieftain.webp"
 						}
 					}
 				]
@@ -21156,7 +21156,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Devilbound Gnomish Prince.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Dipsa.webp"
 						}
 					}
 				],
@@ -23864,7 +23864,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Dwarven Rignmage.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Dwarven Ringmage.webp"
 						}
 					}
 				]
@@ -37146,7 +37146,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/ToB/token/Kikimora.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Kikimora.webp"
 						}
 					}
 				],
@@ -37368,7 +37368,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Kikimora.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Demon Kishi.webp"
 						}
 					}
 				],
@@ -54365,7 +54365,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Roachling.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Roachling Skirmisher.webp"
 						}
 					}
 				],
@@ -57630,7 +57630,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Scorpion%20Cultist.png"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Scorpion%20Cultist.webp"
 						}
 					}
 				]
@@ -67028,7 +67028,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Arch-Devil%20Totivillus%2C%20Scribe%20of%20Hell.png"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Arch-Devil Totivillus, Scribe of Hell.webp"
 						}
 					}
 				],
