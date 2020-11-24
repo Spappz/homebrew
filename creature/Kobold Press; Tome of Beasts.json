@@ -652,7 +652,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Alquam.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Abominable Beauty.webp"
 						}
 					}
 				],
@@ -1046,14 +1046,14 @@
 					"ability": "cha"
 				}
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Adult%20Cave%20Dragon.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Cave%20Dragon.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Adult Cave Dragon.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Cave Dragon.webp"
 						}
 					}
 				],
@@ -1289,14 +1289,14 @@
 				}
 			],
 			"page": 129,
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Adult%20Flame%20Dragon.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Flame%20Dragon.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Adult Flame Dragon.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Flame Dragon.webp"
 						}
 					}
 				],
@@ -1768,7 +1768,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Adult Rime Worm.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Rime Worm Grub.webp"
 						}
 					}
 				],
@@ -2530,14 +2530,14 @@
 					"ability": "cha"
 				}
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Adult%20Wind%20Dragon.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Wind%20Dragon.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Adult Wind Dragon.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Wind Dragon.webp"
 						}
 					}
 				],
@@ -2798,6 +2798,15 @@
 			"isNamedCreature": true,
 			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Akyishigal%2C%20Demon%20Lord%20of%20Cockroaches.png",
 			"fluff": {
+				"images": [
+					{
+						"type": "images",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Akyishigal.webp"
+						}
+					}
+				],
 				"entries": [
 					"Of all the demons lurking in the Abyss, few are as vile and disgusting as Akyishigal, the lord of cockroaches. His filth-slicked mandibles clack ceaselessly for the flesh and souls of humanoids.",
 					{
@@ -3835,6 +3844,15 @@
 			"isNamedCreature": true,
 			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Alquam%2C%20Demon%20Lord%20of%20Night.png",
 			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Alquam.webp"
+						}
+					}
+				],
 				"entries": [
 					"Alquam, the Silent Black, Eyes in the Night, the Dark Hunter, is the demon lord of night and the creatures that prowl it. He has a particular affinity for owls; the stryx and owl harpies are both offshoots of his influence. Any shadow or dark corner at night might carry whispers to his ears. Alquam delights in music, though his favorite songs are said to grate mortal sanity to shreds. His huffed breath reeks of carrion.",
 					"Alquam is composed mostly of darkness, with some features of a monstrous owl. He stands over 15 feet tall, and dark gray feathers with lighter speckles and bands cover his body. His head is that of a great owl with back-swept horns and massive, bulbous eyes that gleam yellow. His body is thin and such a deep black that it drinks in light. His feathery wings are long enough to wrap around his whole body.",
@@ -4146,7 +4164,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Alseid Grovekeeper.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Alseid.webp"
 						}
 					}
 				],
@@ -4827,14 +4845,14 @@
 					"ability": "int"
 				}
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Ancient%20Mithral%20Dragon.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Adult%20Mithral%20Dragon.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Ancient Mithral Dragon.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Mithral Dragon.webp"
 						}
 					}
 				],
@@ -5588,6 +5606,7 @@
 							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Void Dragon 2.webp"
 						}
 					}
+				],
 				"entries": [
 					"{@i A dragon seemingly formed of the night sky has bright white stars for eyes. Lesser stars twinkle in the firmament of the dragon's body.}",
 					{
@@ -5876,14 +5895,14 @@
 					"ability": "cha"
 				}
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Ancient%20Wind%20Dragon.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Wind%20Dragon.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Ancient Wind Dragon.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Wind Dragon.webp"
 						}
 					}
 				],
@@ -7112,6 +7131,15 @@
 			"isNamedCreature": true,
 			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Arch-Devil%20Arbeyach%2C%20Prince%20of%20Swarms.png",
 			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Arbeyach.webp"
+						}
+					}
+				],
 				"entries": [
 					"This gaunt old man\u2014unwashed, disheveled, clad in ragged pants and a tattered coat, with stringy gray hair and yellow skin\u2014stands nearly eight feet tall. Beneath his shredded clothing, his flesh hangs in strips from his bones, revealing innards swarming with insects.",
 					{
@@ -7512,6 +7540,52 @@
 				}
 			],
 			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Arcane%20Guardian.png",
+			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Spectral Guardian.webp"
+						}
+					}
+				],
+				"entries": [
+					"{@i A luminous green mist swirls into the form of an ancient warrior. Dented armor and a ragged cloak enshroud the warrior's skeletal body, and its grinning skull leers out from an open helm.}",
+					{
+						"type": "entries",
+						"entries": [
+							{
+								"type": "entries",
+								"entries": [
+									{
+										"type": "entries",
+										"name": "Worn Finery",
+										"entries": [
+											"Composed of faintly glowing green vapor, the spectral guardian is a skeletal being encased in ancient armor or noble's finery. The cloth is worn and tattered, spiraling away into mist at the edges, and the creature glides with the faintest whisper of sound like a mournful moan from far away."
+										]
+									},
+									{
+										"type": "entries",
+										"name": "Eternal Disgrace",
+										"entries": [
+											"The spectral guardian is the spirit of an ancient warrior or noble, bound to serve in death as it failed to do in life. A broken oath, an act of cowardice, or a curse laid down by the gods for a terrible betrayal leaves an indelible mark on a soul.",
+											"After the cursed creature's death, its spirit rises, unquiet, in a place closely related to its disgrace. Compelled by the crushing weight of its deeds, the spectral guardian knows no rest or peace, and viciously snuffs out all life that intrudes upon its haunt."
+										]
+									},
+									{
+										"type": "entries",
+										"name": "Undead Nature",
+										"entries": [
+											"A spectral guardian doesn't require air, food, drink, or sleep."
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
 			"actionTags": [
 				"Multiattack"
 			],
@@ -7680,7 +7754,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Arcane Guardian.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Aridni.webp"
 						}
 					}
 				],
@@ -8859,7 +8933,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Baba Yaga's Horsemen (Black Night).webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Baba Yagas Horsemen.webp"
 						}
 					}
 				],
@@ -9093,7 +9167,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Baba Yaga's Horsemen (Bright Day).webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Baba Yagas Horsemen.webp"
 						}
 					}
 				],
@@ -9326,7 +9400,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Baba Yaga's Horsemen (Red Sun).webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Baba Yagas Horsemen.webp"
 						}
 					}
 				],
@@ -9643,6 +9717,17 @@
 			],
 			"page": 418,
 			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Bandit%20Lord.png",
+			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Bandit Lord.webp"
+						}
+					}
+				]
+			},
 			"actionTags": [
 				"Multiattack",
 				"Parry"
@@ -11126,6 +11211,17 @@
 			],
 			"page": 418,
 			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Black%20Knight%20Commander.png",
+			"fluff": {
+				"images": [
+					{
+						"type": "external",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Black Knight Commander.webp"
+						}
+					}
+				]
+			},
 			"actionTags": [
 				"Multiattack"
 			],
@@ -13841,6 +13937,15 @@
 			"isNamedCreature": true,
 			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Camazotz%2C%20Demon%20Lord%20of%20Bats%20and%20Fire.png",
 			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Camazotz.webp"
+						}
+					}
+				],
 				"entries": [
 					"Camazotz looks like a hunched, lean man, covered in short black fur and with large membranous wings. His lips, pulled back in a sinister smile, reveal a mouth lined with crooked, needlelike teeth. His eyes glow red like burning embers of hate. Long arms end in cruel claws, and the air around him shimmers with waves of intense heat.",
 					{
@@ -14380,7 +14485,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Cave Dragon Wyrmling.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Cave Dragon.webp"
 						}
 					}
 				],
@@ -15892,6 +15997,17 @@
 			],
 			"page": 419,
 			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/City%20Watch%20Captain.png",
+			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/City Watch Captain.webp"
+						}
+					}
+				]
+			},
 			"actionTags": [
 				"Multiattack"
 			],
@@ -17970,6 +18086,17 @@
 			],
 			"page": 423,
 			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Corrupted%20Ogre%20Chieftain.png",
+			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Corupted Ogre Chieftain.webp"
+						}
+					}
+				]
+			},
 			"actionTags": [
 				"Multiattack"
 			],
@@ -20022,6 +20149,59 @@
 				}
 			],
 			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Deep%20One%20Hybrid%20Priest.png",
+			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Deep One.webp"
+						}
+					}
+				],
+				"entries": [
+					"{@i With enormous eyes, a wide mouth, and almost no chin, the deep ones are hideous, fishlike folk, often hunched and scaled when encountered in coastal villages.}",
+					{
+						"type": "entries",
+						"entries": [
+							{
+								"type": "entries",
+								"entries": [
+									{
+										"type": "entries",
+										"name": "Elder Gods",
+										"entries": [
+											"In their fully grown form, the deep ones are an ocean-dwelling race that worships elder gods such as Father Dagon and Mother Hydra, and they dwell in deep water darkness. They've intermarried with coastal humans to create human-deep one hybrids."
+										]
+									},
+									{
+										"type": "entries",
+										"name": "Coastal Raiders",
+										"entries": [
+											"The deep ones keep to themselves in isolated coastal villages and settlements in the ocean for long periods, and then turn suddenly, at the command of their patron gods, into strong, relentless raiders, seizing territory, slaves, and wealth all along the coasts. Some deep ones have even founded small kingdoms lasting generations in backwater reaches or distant chilled seas."
+										]
+									},
+									{
+										"type": "entries",
+										"name": "Demand Sacrifices",
+										"entries": [
+											"They demand tolls from mariners frequently; those who do not leave tribute to them at certain islands or along certain straits find the fish escape their nets, or the storms shatter their hulls and drown their sailors. Over time, some seafaring nations have found it more profitable to ally themselves with the deep ones; this is the first step in their patient plans to dominate and rule."
+										]
+									},
+									{
+										"type": "inset",
+										"name": "Gods of the Deep Ones",
+										"entries": [
+											"The deep ones are faithful servants of horrific powers inimical to all life on land. Father Dagon is a god of fertility, fish, and the strength of the deep ocean, and is an evil lord of storm and waves. Mother Hydra is his consort, a goddess of immense strength and size, spawning entire schools of fish at once and mistress of the great kraken and toothsome krake spawn, who are her children and servitors. Both are keen on conquest, through a long program of forced interbreeding and eldritch meddling with human bloodlines.",
+											"In addition, many deep ones follow Shar-Ngolyeth, a long-lost deity also referred to as That Which Lurks Beneath the Waves. This kraken and her krake spawn offspring are close allies to the deep ones, but are largely indifferent to Dagon and Hydra."
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
 			"traitTags": [
 				"Amphibious"
 			],
@@ -20131,7 +20311,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Deep One Hybrid Priest.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Degenerate Titan.webp"
 						}
 					}
 				],
@@ -20849,6 +21029,17 @@
 				}
 			],
 			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Devilbound%20Gnomish%20Prince.png",
+			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Devilbound Gnomish Prince.webp"
+						}
+					}
+				]
+			},
 			"traitTags": [
 				"Magic Resistance"
 			],
@@ -23667,6 +23858,17 @@
 				}
 			],
 			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Dwarven%20Ringmage.png",
+			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Dwarven Rignmage.webp"
+						}
+					}
+				]
+			},
 			"actionTags": [
 				"Multiattack"
 			],
@@ -25182,6 +25384,17 @@
 			],
 			"page": 422,
 			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Elvish%20Veteran%20Archer.png",
+			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Elvish Veteran Archer.webp"
+						}
+					}
+				]
+			},
 			"actionTags": [
 				"Multiattack"
 			],
@@ -25328,7 +25541,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Elvish Veteran Archer.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Emerald Eye.webp"
 						}
 					}
 				],
@@ -25564,6 +25777,17 @@
 				}
 			],
 			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Emerald%20Order%20Cult%20Leader.png",
+			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Emerald Order Cult Leader.webp"
+						}
+					}
+				]
+			},
 			"actionTags": [
 				"Multiattack"
 			],
@@ -25828,7 +26052,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Emerald Order Cult Leader.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Ghoul Emperor.webp"
 						}
 					}
 				],
@@ -26316,7 +26540,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Erina Defender.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Erina.webp"
 						}
 					}
 				],
@@ -26460,7 +26684,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Erina Scrounger.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Erina.webp"
 						}
 					}
 				],
@@ -29978,6 +30202,51 @@
 			],
 			"page": 209,
 			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Gbahali%20(Postosuchus).png",
+			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Gbahali.webp"
+						}
+					}
+				],
+				"entries": [
+					"{@i A large reptile with a dagger-like teeth and a scaly hide of shifting colors, the gbahali often strikes from close range.}",
+					{
+						"type": "entries",
+						"entries": [
+							{
+								"type": "entries",
+								"entries": [
+									{
+										"type": "entries",
+										"name": "Chameleon Crocodiles",
+										"entries": [
+											"While distantly related to crocodiles, gbahali have adapted to life away from the water. To make up for the lack of cover, gbahali developed chameleon powers. Gbahali hide changes color to match its surroundings so perfectly that it becomes nearly invisible. Any lonely rock on the grassland might be a gbahali waiting along a trail, caravan route, or watering hole. Their thick hide can be made into hide or leather armor, and with the proper alchemical techniques it retains some of its color-shifting properties."
+										]
+									},
+									{
+										"type": "entries",
+										"name": "Strong Hunters",
+										"entries": [
+											"Gbahalis are powerful predators, challenged only by rivals too large for a gbahali to grapple or by predators that hunt in packs and prides, such as lions and gnolls. Gbahalis live solitary lives except during the fall, when males seek out females in their territory. Females lay eggs in the spring and guard the nest until the eggs hatch, but the young gbahali are abandoned to their own devices. Killing an adult gbahali is a sign of bravery and skill for plains hunters."
+										]
+									},
+									{
+										"type": "entries",
+										"name": "Sentries and Stragglers",
+										"entries": [
+											"In combat, a gbahali relies on its chameleon power to ambush prey. It may wait quietly for hours, but its speed and stealth mean it strikes quickly, especially against weak or solitary prey. Its onslaught is strong enough to scatter a herd and leave behind the slowest for the gbahali to bring down."
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
 			"actionTags": [
 				"Multiattack"
 			],
@@ -30114,12 +30383,13 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Gbahali (Postosuchus).webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Gearforged Templar.webp"
 						}
 					}
 				],
 				"entries": [
-					"{@i A large reptile with a dagger-like teeth and a scaly hide of shifting colors, the gbahali often strikes from close range.}",
+					"{@i The bronze and mithral figure advances with heavy movements. Its eye lenses glare dark blue, and gears click when it swings its glaive.}",
+					"An intricate construction of bronze, steel, copper, and mithral, the gearforged templar is an imposing sight. A humanoid spirit contained in a soulgem animates the heavy body of gears and springs. Gearforged are relatively rare, and the champion is a paragon among them.",
 					{
 						"type": "entries",
 						"entries": [
@@ -30128,23 +30398,16 @@
 								"entries": [
 									{
 										"type": "entries",
-										"name": "Chameleon Crocodiles",
+										"name": "Tireless Defender",
 										"entries": [
-											"While distantly related to crocodiles, gbahali have adapted to life away from the water. To make up for the lack of cover, gbahali developed chameleon powers. Gbahali hide changes color to match its surroundings so perfectly that it becomes nearly invisible. Any lonely rock on the grassland might be a gbahali waiting along a trail, caravan route, or watering hole. Their thick hide can be made into hide or leather armor, and with the proper alchemical techniques it retains some of its color-shifting properties."
+											"The gearforged templar is relentless in pursuit of its duty. More so then  other gearforged, the champion’s mindset becomes fixed on its charge to the exclusion of distractions and even magical coercion. Gearforged templars serve as commanders of military or guard units, bodyguards for important individuals, or personal champions for nobility."
 										]
 									},
 									{
 										"type": "entries",
-										"name": "Strong Hunters",
+										"name": "Constructed Nature",
 										"entries": [
-											"Gbahalis are powerful predators, challenged only by rivals too large for a gbahali to grapple or by predators that hunt in packs and prides, such as lions and gnolls. Gbahalis live solitary lives except during the fall, when males seek out females in their territory. Females lay eggs in the spring and guard the nest until the eggs hatch, but the young gbahali are abandoned to their own devices. Killing an adult gbahali is a sign of bravery and skill for plains hunters."
-										]
-									},
-									{
-										"type": "entries",
-										"name": "Sentries and Stragglers",
-										"entries": [
-											"In combat, a gbahali relies on its chameleon power to ambush prey. It may wait quietly for hours, but its speed and stealth mean it strikes quickly, especially against weak or solitary prey. Its onslaught is strong enough to scatter a herd and leave behind the slowest for the gbahali to bring down."
+											"The gearforged templar doesn't require food, drink, air, or sleep."
 										]
 									}
 								]
@@ -30413,6 +30676,17 @@
 			],
 			"page": 423,
 			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Ghost%20Knight.png",
+			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Ghost Knight.webp"
+						}
+					}
+				]
+			},
 			"actionTags": [
 				"Multiattack"
 			],
@@ -30544,7 +30818,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Ghost Knight.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Ghostwalk Spider.webp"
 						}
 					}
 				],
@@ -30804,7 +31078,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Giant Ant Queen.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Giant Ant.webp"
 						}
 					}
 				],
@@ -31999,7 +32273,52 @@
 				}
 			],
 			"page": 71,
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Greater%20Death%20Butterfly%20Swarm.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Death%20Butterfly%20Swarm.png",
+			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Death Butterfly Swarm.webp"
+						}
+					}
+				],
+				"entries": [
+					"{@i These enormous clouds of orange and green butterflies add a reek of putrefaction to the air, stirred by the flapping of their delicate wings.}",
+					{
+						"type": "entries",
+						"entries": [
+							{
+								"type": "entries",
+								"entries": [
+									{
+										"type": "entries",
+										"name": "Demon-Haunted",
+										"entries": [
+											"A death butterfly swarm results when a rare breed of carrion-eating butterflies, drawn to the stench of great decay, feeds on the corpse of a fiend, demon, or similar creature."
+										]
+									},
+									{
+										"type": "entries",
+										"name": "Dizzying and Poisonous",
+										"entries": [
+											"The colorful and chaotic flapping of the insects' wings blinds and staggers those in its path, allowing the swarm to necrotize more flesh from those it overruns. Attracted to rotting material, the swarm spreads a fast-acting, poison on its victims, creating carrion it can feed on immediately."
+										]
+									},
+									{
+										"type": "entries",
+										"name": "Devour the Undead",
+										"entries": [
+											"Undead creatures are not immune to a death butterfly swarm's poison, and a swarm can rot an undead creature's animating energies as easily as those of the living. Given the choice between an undead and living creature, a death butterfly swarm always attacks the undead. Such swarms find ghouls and vampires particularly appealing. Some good-aligned forces regard summoning these swarms as a necessary evil."
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
 			"actionTags": [
 				"Multiattack"
 			],
@@ -32174,7 +32493,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Greater Death Butterfly Swarm.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Grim Jester.webp"
 						}
 					}
 				],
@@ -34008,6 +34327,15 @@
 			"isNamedCreature": true,
 			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Hraesvelgr%2C%20The%20Corpse%20Swallower.png",
 			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Hraesvelgr.webp"
+						}
+					}
+				],
 				"entries": [
 					"{@i The giant stands braced in the midst of powerful wind. With a baleful stare, he shakes his fist and bellows a war cry. The cry becomes an avian shriek, and the giant's form melts into that of a massive bird whose wings blot out the sky.}",
 					"A giant with divine blood in his veins, Hraesvelgr the Corpse Swallower is powerfully muscled. His skin is a pale bronze, his eyes are violet, and his hair and beard are the color of storm clouds.",
@@ -36674,13 +37002,6 @@
 											"Troops of kalkes inhabit trees, caverns, and ruins around sites of significant magical activity. Twice a month, or more during major astrological and seasonal events, the kalkes gather to perform\u2014by way of dance, chant, and sacrifice\u2014an imagined rite of great magic. The effort has an equal chance of achieving nothing whatsoever, causing dangerous but short-lived misfortunes (snakes raining on the countryside, creatures summoned from the lower planes), or triggering calamities (great fires or floods).",
 											"An additional side effect of these rituals is that the troop may gain or lose members magically. If the troop numbers less than 13, a new kalke appears as if from nowhere; if it contains 13 or more members, then 3d4 of them find themselves mysteriously gated to the nearest location of magical activity\u2014often hundreds of miles away. Those teleported arrive in a state of hysteria, with individuals extinguishing flames, grabbing frippery, and running in all directions. Because kalkes have no control over their displacement, it's not surprising to find them in abandoned dungeons or keeps, clutching the property of some long-lost wizard."
 										]
-									},
-									{
-										"type": "entries",
-										"name": "Fast Talkers",
-										"entries": [
-											"While they try to avoid notice and aren't great talespinners, kikimoras are convincing and use this influence to gain an upper hand\u2014or to evade capture or avoid violence."
-										]
 									}
 								]
 							}
@@ -36819,6 +37140,53 @@
 				}
 			],
 			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Kikimora.png",
+			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/ToB/token/Kikimora.webp"
+						}
+					}
+				],
+				"entries": [
+					"{@i This strange-looking humanoid combines the features of an old crone and some manner of bird. A shawl covers her head but cannot contain her prominent beak and clawed hands. Her skirt reveals bird-like feet.}",
+					{
+						"type": "entries",
+						"entries": [
+							{
+								"type": "entries",
+								"entries": [
+									{
+										"type": "entries",
+										"name": "Filthy Illusions",
+										"entries": [
+											"Kikimoras are devious house spirits who torment those they live with unless they are catered to and cajoled. They delight in harassing homeowners with their illusions, making a house look much filthier than it actually is. Their favored illusions include mold, filth, and scuttling vermin.",
+											"They love secretly breaking things or making such destruction seem like an accident. They then convince the house’s residents to leave gifts as enticement for making repairs in the night."
+										]
+									},
+									{
+										"type": "entries",
+										"name": "Brownie Hunters",
+										"entries": [
+											"Kikimoras hate brownies. While brownies can be mischievous, kikimoras bring pain and frustration on their housemates instead of remaining hidden and helping chores along. Some brownies seek out kikimora-infested homes with the intention of evicting them.",
+											"If homeowners refuse to appease the kikimora (or cannot rid themselves of her devious presence), the kikimora sends a swarm of spiders, rats, or bats. Many times inhabitants in a home plagued by a kikimora believe it is haunted."
+										]
+									},
+									{
+										"type": "entries",
+										"name": "Fast Talkers",
+										"entries": [
+											"While they try to avoid notice and aren't great talespinners, kikimoras are convincing and use this influence to gain an upper hand\u2014or to evade capture or avoid violence."
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
 			"actionTags": [
 				"Multiattack"
 			],
@@ -39121,6 +39489,52 @@
 				}
 			],
 			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Lemurfolk%20Greyfur.png",
+			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Lemurfolk.webp"
+						}
+					}
+				],
+				"entries": [
+					"{@i This furred humanoid glides silently through the canopy of trees, gripping a blowgun. It observes visitors cautiously with two intelligent, bulbous eyes.}",
+					{
+						"type": "entries",
+						"entries": [
+							{
+								"type": "entries",
+								"entries": [
+									{
+										"type": "entries",
+										"name": "Jungle Rulers",
+										"entries": [
+											"These small, intelligent, squirrel-like humanoids live in reclusive, primitive societies deep in the jungle. They are omnivorous, subsisting on fruits and roots, insects and larvae, bird and snake eggs, and birds and small mammals. They sometimes barter with more advanced creatures for metal and crafted items."
+										]
+									},
+									{
+										"type": "entries",
+										"name": "Nocturnal Gliders",
+										"entries": [
+											"Lemurfolk are nocturnal, though they can adopt daytime hours when they must. They prefer to hunt and move by gliding between trees, catching prey off guard."
+										]
+									},
+									{
+										"type": "entries",
+										"name": "Greyfur Elders",
+										"entries": [
+											"Greyfurs are the eldest and most revered kaguani, as much as 80 years old; their age can be estimated by the graying of their fur, but they don't track the years. Greyfurs are cunning individuals and command the arcane arts, though they rarely pursue the art of necromancy\u2014a strong taboo prohibits them from interacting with the dead.",
+											"A typical lemurfolk stands 2 feet tall and weighs 30 lb."
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
 			"traitTags": [
 				"Sneak Attack"
 			],
@@ -39261,7 +39675,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Lemurfolk Greyfur.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Leshy.webp"
 						}
 					}
 				],
@@ -42192,6 +42606,15 @@
 			"isNamedCreature": true,
 			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Arch-Devil%20Mammon%2C%20Archduke%20of%20Greed.png",
 			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Mammon.webp"
+						}
+					}
+				],
 				"entries": [
 					"This massive demon is made of money. His corpulent body is clad only in a woven platinum loincloth and a myriad of golden bangles, necklaces, rings, and chains. His skin is a deep golden hue, and his bald head is surmounted by a magnificent crown. The figure's grin is wide, wicked, and dripping with avarice.",
 					{
@@ -43523,6 +43946,15 @@
 			"isNamedCreature": true,
 			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Mechuiti%2C%20Demon%20Lord%20of%20Apes.png",
 			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Mechuiti.webp"
+						}
+					}
+				],
 				"entries": [
 					"A yellow-green fire burns atop the head of this towering, red.furred demon, which resembles an enormous mandrill. It has massive, muscular arms tipped with razor-sharp claws, and a slavering jaw filled with huge fangs and tusks that curl back almost to its blue cheeks. Standing 25-feet-tall, Mechuiti can stand erect like a human or walk on its knuckles, like a great ape.",
 					{
@@ -47762,7 +48194,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Nkosi Pridelord.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Nkosi.webp"
 						}
 					}
 				],
@@ -49918,7 +50350,7 @@
 			]
 		},
 		{
-			"name": "Qorgeth, Demon Lord of The Devouring Worm",
+			"name": "Qorgeth, Demon Lord of the Devouring Worm",
 			"size": "G",
 			"type": {
 				"type": "fiend",
@@ -50102,6 +50534,15 @@
 			"isNamedCreature": true,
 			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Qorgeth%2C%20Demon%20Lord%20of%20The%20Devouring%20Worm.png",
 			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Qorgeth.webp"
+						}
+					}
+				],
 				"entries": [
 					"Qorgeth, the Writhing Prince, Pale Maw, the Devourer, is lord of worms and decay, a massive undulating form that crushes trees and cracks stone. Its presence seeps into the world of mortals via the trails of worms and maggots through rotting flesh. The demon lord views all things that live, or once lived, as its property in the making. Everything becomes its food eventually.",
 					"An impossibly massive, pale-fleshed worm, Qorgeth's segmented body is road-mapped with pale veins of pink and blue. When it opens its massive maw, it reveals a writhing mass of smaller worms, many of which are adorned with wailing or enraged humanoid heads.",
@@ -51784,7 +52225,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Ratfolk Rogue.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Ratfolk.webp"
 						}
 					}
 				],
@@ -53924,7 +54365,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Roachling Lord.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Roachling.webp"
 						}
 					}
 				],
@@ -57182,7 +57623,18 @@
 				"MW",
 				"RW",
 				"RNG"
-			]
+			],
+			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Scorpion%20Cultist.png"
+						}
+					}
+				]
+			}
 		},
 		{
 			"name": "Sea Dragon Wyrmling",
@@ -58331,15 +58783,6 @@
 			],
 			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Shadow%20Fey.png",
 			"fluff": {
-				"images": [
-					{
-						"type": "image",
-						"href": {
-							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Shadow Fey.webp"
-						}
-					}
-				],
 				"entries": [
 					{
 						"type": "quote",
@@ -58542,7 +58985,55 @@
 				"entries": [
 					"The pale-skinned elf wears a gleaming breastplate and tight-fitting clothing. He moves like the wind, evading blows with effortless skill. When he stops and smiles, his blade is slick with crimson.",
 					"Shadow fey duelists are elite warriors, often of noble lineage. Swift and sure beyond compare, duelists are often taller and more wiry than others of their kind. Their armor, clothing, and weapons are of exquisite make, fashioned from only the finest materials, as befits their station.",
-					"A nobleman or woman of the shadow fey is not to be taken lightly\u2014many courtiers or politicians are deadly with their slim blades, and they are known to distill virulent poisons. Often a skilled duelist serves as a champion for her liege, standing in the noble's stead in challenges or serving as an elite bodyguard."
+					"A nobleman or woman of the shadow fey is not to be taken lightly\u2014many courtiers or politicians are deadly with their slim blades, and they are known to distill virulent poisons. Often a skilled duelist serves as a champion for her liege, standing in the noble's stead in challenges or serving as an elite bodyguard.",
+					{
+						"type": "section",
+						"name": "Shadow Fey",
+						"entries": [
+							{
+								"type": "quote",
+								"entries": [
+									"Kind words open even iron doors"
+								],
+								"by": "Twilight, a courtier to the shadow fey"
+							},
+							"To most, the shadow fey are little more than a dancing shadow among the leaves. To savants, they are the creatures that taught the shadowdancers all they know, and kept many secrets to themselves. They were once elves like all others, dwelling in mortal lands beneath the sun. An ancient catastrophe drove them to darkness, and now they are creatures of the shadow. Though they can be found on the Material Plane, they are inextricably tied to the plane of Shadows, and that is the seat of their power and culture.",
+							"Shadow fey superficially resemble other elves, but they're rarely mistaken for their lighted cousins. Skin tones among the shadow fey range from alabaster white to ebony black, with varying shades of gray in between, but they are otherwise lacking in color. A few have a scintillating shimmer to their skin. Many shadow fey grow horns that sweep out from their hair, varying in size from subtle nubs to obvious spikes. Others have shocking sets of teeth.",
+							{
+								"type": "entries",
+								"entries": [
+									{
+										"type": "entries",
+										"entries": [
+											{
+												"type": "entries",
+												"name": "Dual Natured",
+												"entries": [
+													"The shadow fey are contradictory beings. They boast some of the best features of elves, tempered by aspects of a fouler nature. They can be deliberate and purposeful, but they're also given to perplexing whimsy. Mortal creatures trying to fathom shadow fey motivations are in for a maddening experience; they are often illogical, capricious, and seemingly thrive on annoying others."
+												]
+											},
+											{
+												"type": "entries",
+												"name": "Split Rulership",
+												"entries": [
+													"The Summer Court and Winter Court each rule the shadow fey in the appropriate season. The turning of these seasons follows no clear calendar or schedule, though it is skewed toward summer. The Queen of Night and Magic and the Moonlit King each claim dominion in turn, ruling over the Summer and Winter courts respectively.",
+													"Other fey call them the Scáthsidhe (pronounced scAH-shee), or shadow faeries, and they are usually counted among the unseelie, though they would dispute that characterization. They simply call themselves part of the sidhe, and consider themselves an extension of the Seelie Court."
+												]
+											},
+											{
+												"type": "entries",
+												"name": "The Reach of Darkness",
+												"entries": [
+													"Their bond with darkness allows the shadow fey to slip through distant spaces, traversing darkness itself from one place to another. Not only can every shadow fey slip from a shadow or patch of darkness to instantly appear elsewhere, they also control the mysterious and powerful shadow roads. Shadow roads are magical pathways that connect points on the Material Plane by dipping through the plane of shadow, allowing rapid and completely secret travel for the fey\u2014and more importantly, for their weapons of war, their trade goods, and their allies.",
+													"The shadow fey all have an instinctive understanding of how a shadow road functions, and they are adept at both operating the entrance portals and navigating any hazards on the road. This bond with darkness has a price, of course, and the shadow fey shun the sun's light."
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
 				]
 			},
 			"actionTags": [
@@ -58764,7 +59255,55 @@
 				"entries": [
 					"This ravishing shadow fey woman moves with alluring grace. Her voice rings like a bell, and in her hearing worldly cares and sorrows melt away.",
 					"Beyond even great physical beauty, the sheer presence of a shadow fey enchantress can lay the most stalwart foes low. Enchantresses live up to their name; almost universally female, they are beautiful beyond compare. Only if they wish it could they ever be mistaken for common shadow fey.",
-					"Enchantresses are also powerful spellcasters who infuse their words and manner with the beguiling power of shadow to turn enemies against one another with a few words and a deadly smile. They augment the force of their minds with fey-wrought blades, infusing their weapons with power that shreds their victims' psyche as well as their flesh."
+					"Enchantresses are also powerful spellcasters who infuse their words and manner with the beguiling power of shadow to turn enemies against one another with a few words and a deadly smile. They augment the force of their minds with fey-wrought blades, infusing their weapons with power that shreds their victims' psyche as well as their flesh.",
+					{
+						"type": "section",
+						"name": "Shadow Fey",
+						"entries": [
+							{
+								"type": "quote",
+								"entries": [
+									"Kind words open even iron doors"
+								],
+								"by": "Twilight, a courtier to the shadow fey"
+							},
+							"To most, the shadow fey are little more than a dancing shadow among the leaves. To savants, they are the creatures that taught the shadowdancers all they know, and kept many secrets to themselves. They were once elves like all others, dwelling in mortal lands beneath the sun. An ancient catastrophe drove them to darkness, and now they are creatures of the shadow. Though they can be found on the Material Plane, they are inextricably tied to the plane of Shadows, and that is the seat of their power and culture.",
+							"Shadow fey superficially resemble other elves, but they're rarely mistaken for their lighted cousins. Skin tones among the shadow fey range from alabaster white to ebony black, with varying shades of gray in between, but they are otherwise lacking in color. A few have a scintillating shimmer to their skin. Many shadow fey grow horns that sweep out from their hair, varying in size from subtle nubs to obvious spikes. Others have shocking sets of teeth.",
+							{
+								"type": "entries",
+								"entries": [
+									{
+										"type": "entries",
+										"entries": [
+											{
+												"type": "entries",
+												"name": "Dual Natured",
+												"entries": [
+													"The shadow fey are contradictory beings. They boast some of the best features of elves, tempered by aspects of a fouler nature. They can be deliberate and purposeful, but they're also given to perplexing whimsy. Mortal creatures trying to fathom shadow fey motivations are in for a maddening experience; they are often illogical, capricious, and seemingly thrive on annoying others."
+												]
+											},
+											{
+												"type": "entries",
+												"name": "Split Rulership",
+												"entries": [
+													"The Summer Court and Winter Court each rule the shadow fey in the appropriate season. The turning of these seasons follows no clear calendar or schedule, though it is skewed toward summer. The Queen of Night and Magic and the Moonlit King each claim dominion in turn, ruling over the Summer and Winter courts respectively.",
+													"Other fey call them the Scáthsidhe (pronounced scAH-shee), or shadow faeries, and they are usually counted among the unseelie, though they would dispute that characterization. They simply call themselves part of the sidhe, and consider themselves an extension of the Seelie Court."
+												]
+											},
+											{
+												"type": "entries",
+												"name": "The Reach of Darkness",
+												"entries": [
+													"Their bond with darkness allows the shadow fey to slip through distant spaces, traversing darkness itself from one place to another. Not only can every shadow fey slip from a shadow or patch of darkness to instantly appear elsewhere, they also control the mysterious and powerful shadow roads. Shadow roads are magical pathways that connect points on the Material Plane by dipping through the plane of shadow, allowing rapid and completely secret travel for the fey\u2014and more importantly, for their weapons of war, their trade goods, and their allies.",
+													"The shadow fey all have an instinctive understanding of how a shadow road functions, and they are adept at both operating the entrance portals and navigating any hazards on the road. This bond with darkness has a price, of course, and the shadow fey shun the sun's light."
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
 				]
 			},
 			"actionTags": [
@@ -58934,7 +59473,55 @@
 				"entries": [
 					"Forest Hunter The shadows flicker slightly, and that's the only warning before a hail of arrows erupts from the concealed, black-skinned elf hidden in the gloom.",
 					"Dressed in exquisitely wrought mail and leather jerkins, forest hunters are even more lithe and graceful than most shadow fey. Physically, only their mannerisms and skills setting them apart from other shadow fey\u2014usually too late.",
-					"Forest hunters roam the deep woods connected to shadow roads, as well as the dark reflections within the plane of Shadows. They are skilled trackers and stalkers, hunting animals and more dangerous game. Many forest hunters serve in the Wild Hunt, and a hunter that has at one time ridden at the Lord of the Hunt's side is afforded great respect, even fear, because of the common belief that such a hunter can implore the Lord of the Hunt to notice an enemy."
+					"Forest hunters roam the deep woods connected to shadow roads, as well as the dark reflections within the plane of Shadows. They are skilled trackers and stalkers, hunting animals and more dangerous game. Many forest hunters serve in the Wild Hunt, and a hunter that has at one time ridden at the Lord of the Hunt's side is afforded great respect, even fear, because of the common belief that such a hunter can implore the Lord of the Hunt to notice an enemy.",
+					{
+						"type": "section",
+						"name": "Shadow Fey",
+						"entries": [
+							{
+								"type": "quote",
+								"entries": [
+									"Kind words open even iron doors"
+								],
+								"by": "Twilight, a courtier to the shadow fey"
+							},
+							"To most, the shadow fey are little more than a dancing shadow among the leaves. To savants, they are the creatures that taught the shadowdancers all they know, and kept many secrets to themselves. They were once elves like all others, dwelling in mortal lands beneath the sun. An ancient catastrophe drove them to darkness, and now they are creatures of the shadow. Though they can be found on the Material Plane, they are inextricably tied to the plane of Shadows, and that is the seat of their power and culture.",
+							"Shadow fey superficially resemble other elves, but they're rarely mistaken for their lighted cousins. Skin tones among the shadow fey range from alabaster white to ebony black, with varying shades of gray in between, but they are otherwise lacking in color. A few have a scintillating shimmer to their skin. Many shadow fey grow horns that sweep out from their hair, varying in size from subtle nubs to obvious spikes. Others have shocking sets of teeth.",
+							{
+								"type": "entries",
+								"entries": [
+									{
+										"type": "entries",
+										"entries": [
+											{
+												"type": "entries",
+												"name": "Dual Natured",
+												"entries": [
+													"The shadow fey are contradictory beings. They boast some of the best features of elves, tempered by aspects of a fouler nature. They can be deliberate and purposeful, but they're also given to perplexing whimsy. Mortal creatures trying to fathom shadow fey motivations are in for a maddening experience; they are often illogical, capricious, and seemingly thrive on annoying others."
+												]
+											},
+											{
+												"type": "entries",
+												"name": "Split Rulership",
+												"entries": [
+													"The Summer Court and Winter Court each rule the shadow fey in the appropriate season. The turning of these seasons follows no clear calendar or schedule, though it is skewed toward summer. The Queen of Night and Magic and the Moonlit King each claim dominion in turn, ruling over the Summer and Winter courts respectively.",
+													"Other fey call them the Scáthsidhe (pronounced scAH-shee), or shadow faeries, and they are usually counted among the unseelie, though they would dispute that characterization. They simply call themselves part of the sidhe, and consider themselves an extension of the Seelie Court."
+												]
+											},
+											{
+												"type": "entries",
+												"name": "The Reach of Darkness",
+												"entries": [
+													"Their bond with darkness allows the shadow fey to slip through distant spaces, traversing darkness itself from one place to another. Not only can every shadow fey slip from a shadow or patch of darkness to instantly appear elsewhere, they also control the mysterious and powerful shadow roads. Shadow roads are magical pathways that connect points on the Material Plane by dipping through the plane of shadow, allowing rapid and completely secret travel for the fey\u2014and more importantly, for their weapons of war, their trade goods, and their allies.",
+													"The shadow fey all have an instinctive understanding of how a shadow road functions, and they are adept at both operating the entrance portals and navigating any hazards on the road. This bond with darkness has a price, of course, and the shadow fey shun the sun's light."
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
 				]
 			},
 			"actionTags": [
@@ -59105,7 +59692,55 @@
 				"entries": [
 					"A hulking brute, this shadow fey towers over his fellows and wields massive weapons. Patches of his body are swallowed by inky blackness that writhes and crawls, distorting his form in places, and his eyes are hollow black pits.",
 					"Shadow fey guardians are massive creatures trained and bred for battle. They appear as massive versions of shadow fey, but the stuff of shadow corrupts them even more than their brethren, expanding their size and power to an ogrish strength. Patches of pitch black shadow swallow parts of their body and crawl about, revealing and obscuring more by inches at a time. They stand nearly 10 feet tall and weigh over 700 pounds.",
-					"Guardians are fanatically loyal to their superiors. Employed as house guards or even personal bodyguards for important shadow fey, guardians are unshakable in their duty. The shadow corruption reaches into their minds and souls, so that not even powerful magic can bend their hearts or break their resolve. Guardians aren't independent thinkers, but they discharge their duty with single-minded dedication."
+					"Guardians are fanatically loyal to their superiors. Employed as house guards or even personal bodyguards for important shadow fey, guardians are unshakable in their duty. The shadow corruption reaches into their minds and souls, so that not even powerful magic can bend their hearts or break their resolve. Guardians aren't independent thinkers, but they discharge their duty with single-minded dedication.",
+					{
+						"type": "section",
+						"name": "Shadow Fey",
+						"entries": [
+							{
+								"type": "quote",
+								"entries": [
+									"Kind words open even iron doors"
+								],
+								"by": "Twilight, a courtier to the shadow fey"
+							},
+							"To most, the shadow fey are little more than a dancing shadow among the leaves. To savants, they are the creatures that taught the shadowdancers all they know, and kept many secrets to themselves. They were once elves like all others, dwelling in mortal lands beneath the sun. An ancient catastrophe drove them to darkness, and now they are creatures of the shadow. Though they can be found on the Material Plane, they are inextricably tied to the plane of Shadows, and that is the seat of their power and culture.",
+							"Shadow fey superficially resemble other elves, but they're rarely mistaken for their lighted cousins. Skin tones among the shadow fey range from alabaster white to ebony black, with varying shades of gray in between, but they are otherwise lacking in color. A few have a scintillating shimmer to their skin. Many shadow fey grow horns that sweep out from their hair, varying in size from subtle nubs to obvious spikes. Others have shocking sets of teeth.",
+							{
+								"type": "entries",
+								"entries": [
+									{
+										"type": "entries",
+										"entries": [
+											{
+												"type": "entries",
+												"name": "Dual Natured",
+												"entries": [
+													"The shadow fey are contradictory beings. They boast some of the best features of elves, tempered by aspects of a fouler nature. They can be deliberate and purposeful, but they're also given to perplexing whimsy. Mortal creatures trying to fathom shadow fey motivations are in for a maddening experience; they are often illogical, capricious, and seemingly thrive on annoying others."
+												]
+											},
+											{
+												"type": "entries",
+												"name": "Split Rulership",
+												"entries": [
+													"The Summer Court and Winter Court each rule the shadow fey in the appropriate season. The turning of these seasons follows no clear calendar or schedule, though it is skewed toward summer. The Queen of Night and Magic and the Moonlit King each claim dominion in turn, ruling over the Summer and Winter courts respectively.",
+													"Other fey call them the Scáthsidhe (pronounced scAH-shee), or shadow faeries, and they are usually counted among the unseelie, though they would dispute that characterization. They simply call themselves part of the sidhe, and consider themselves an extension of the Seelie Court."
+												]
+											},
+											{
+												"type": "entries",
+												"name": "The Reach of Darkness",
+												"entries": [
+													"Their bond with darkness allows the shadow fey to slip through distant spaces, traversing darkness itself from one place to another. Not only can every shadow fey slip from a shadow or patch of darkness to instantly appear elsewhere, they also control the mysterious and powerful shadow roads. Shadow roads are magical pathways that connect points on the Material Plane by dipping through the plane of shadow, allowing rapid and completely secret travel for the fey\u2014and more importantly, for their weapons of war, their trade goods, and their allies.",
+													"The shadow fey all have an instinctive understanding of how a shadow road functions, and they are adept at both operating the entrance portals and navigating any hazards on the road. This bond with darkness has a price, of course, and the shadow fey shun the sun's light."
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
 				]
 			},
 			"actionTags": [
@@ -60659,13 +61294,14 @@
 				"Sunlight Sensitivity"
 			],
 			"page": 376,
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Sluagh.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Sluagh.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Sluagh Swarm.webp"
 						}
 					}
 				],
@@ -66093,15 +66729,6 @@
 			"page": 386,
 			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Tosculi%20Warrior.png",
 			"fluff": {
-				"images": [
-					{
-						"type": "image",
-						"href": {
-							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Tosculi Warrior.webp"
-						}
-					}
-				],
 				"entries": [
 					"Tosculi warriors are overseers of work crews and battle groups of drones, directing activities and relaying commands from higher up in the hive mind. They are entirely subservient to the hive-queen's orders, but if ordered to act independently or to follow their own best judgment, they're capable of doing so. Warriors are almost never encountered without drones, and tower over them. They stand 4 to 5 feet tall and weigh up to 70 pounds.",
 					{
@@ -66396,6 +67023,15 @@
 			"isNamedCreature": true,
 			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Arch-Devil%20Totivillus%2C%20Scribe%20of%20Hell.png",
 			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Arch-Devil%20Totivillus%2C%20Scribe%20of%20Hell.png"
+						}
+					}
+				],
 				"entries": [
 					"This unassuming man has walnut-colored skin and small horns, and he wears a simple, gray scribe's robe. Evil in Triplicate. Devils track everything, and therein lies the difference between the creatures of demonkind and the creatures of the Nine Hells. The devil responsible for all pacts, soul-stealing contracts, and documents signed in blood is Totivillus, who also creates errors in sacred scrolls and who encourages nodding scribes to drift to sleep and ruin a fresh page of vellum.",
 					{
@@ -70769,7 +71405,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Wharfling Swarm.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Wharfling.webp"
 						}
 					}
 				],
@@ -71038,7 +71674,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Wind Dragon Wyrmling.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Young Wind Dragon.webp"
 						}
 					}
 				],
@@ -71367,6 +72003,17 @@
 			],
 			"page": 426,
 			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Wolf%20Reaver%20Dwarf.png",
+			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Wolf Reaver Dwarf.webp"
+						}
+					}
+				]
+			},
 			"actionTags": [
 				"Multiattack"
 			],
@@ -71503,7 +72150,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Wolf Reaver Dwarf.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Wolf Spirit Swarm.webp"
 						}
 					}
 				],
@@ -72286,14 +72933,14 @@
 					"ability": "cha"
 				}
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Young%20Cave%20Dragon.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Cave%20Dragon.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Young Cave Dragon.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Cave Dragon.webp"
 						}
 					}
 				],
@@ -72472,14 +73119,14 @@
 				}
 			],
 			"page": 130,
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Young%20Flame%20Dragon.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/token/Flame%20Dragon.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Young Flame Dragon.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Flame Dragon.webp"
 						}
 					}
 				],
@@ -73441,7 +74088,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Young Wind Dragon.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Wind Dragon 2.webp"
 						}
 					}
 				],
