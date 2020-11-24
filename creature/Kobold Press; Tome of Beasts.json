@@ -1350,7 +1350,7 @@
 						"type": "entries",
 						"name": "Flame Dragon's Lair",
 						"entries": [
-							"Flame dragons dwell in lairs where a burning ¤re is always near: volcanoes, sulfur mines, caves full of geysers, and places where the Elemental Plane of Fire touches the Material Plane. Whatever the place, its purpose is always to serve as a showcase of all the trophies the dragon has collected. Carefully arranged and organized prizes decorate the walls, sometimes even protected behind crystal walls. This display both feeds the dragon's vanity and pride, and also serves as a lure to attract adventurers, since flame dragons love to encourage the lowest instincts in their prey.",
+							"Flame dragons dwell in lairs where a burning fire is always near: volcanoes, sulfur mines, caves full of geysers, and places where the Elemental Plane of Fire touches the Material Plane. Whatever the place, its purpose is always to serve as a showcase of all the trophies the dragon has collected. Carefully arranged and organized prizes decorate the walls, sometimes even protected behind crystal walls. This display both feeds the dragon's vanity and pride, and also serves as a lure to attract adventurers, since flame dragons love to encourage the lowest instincts in their prey.",
 							"Many of these lairs feature a huge, reflective surface. A flame dragon likes nothing more than itself."
 						]
 					}
@@ -4572,7 +4572,7 @@
 						"type": "entries",
 						"name": "Flame Dragon's Lair",
 						"entries": [
-							"Flame dragons dwell in lairs where a burning ¤re is always near: volcanoes, sulfur mines, caves full of geysers, and places where the Elemental Plane of Fire touches the Material Plane. Whatever the place, its purpose is always to serve as a showcase of all the trophies the dragon has collected. Carefully arranged and organized prizes decorate the walls, sometimes even protected behind crystal walls. This display both feeds the dragon's vanity and pride, and also serves as a lure to attract adventurers, since flame dragons love to encourage the lowest instincts in their prey.",
+							"Flame dragons dwell in lairs where a burning fire is always near: volcanoes, sulfur mines, caves full of geysers, and places where the Elemental Plane of Fire touches the Material Plane. Whatever the place, its purpose is always to serve as a showcase of all the trophies the dragon has collected. Carefully arranged and organized prizes decorate the walls, sometimes even protected behind crystal walls. This display both feeds the dragon's vanity and pride, and also serves as a lure to attract adventurers, since flame dragons love to encourage the lowest instincts in their prey.",
 							"Many of these lairs feature a huge, reflective surface. A flame dragon likes nothing more than itself."
 						]
 					}
@@ -9726,6 +9726,10 @@
 							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Bandit Lord.webp"
 						}
 					}
+				],
+				"entries": [
+					"Not just the leader of a simple gang, the bandit lord has gathered a small army of outlaws and brigands together through force of personality, wit, and strength of arms. To keep those followers in line, the bandit leader must rely on loyal captains whom the bandit lord rewards for their successes and brutally punishes for their failures.",
+					"Unlike those captains, who crave coin and maybe fame, the bandit lord is building an empire. So the bandit lord is always on the lookout for ways to expand at the expense of various rivals and plans contingencies for every occasion, realizing that nothing lasts forever. The bandit lord is ruthless when that's beneficial and magnanimous when it costs nothing"
 				]
 			},
 			"actionTags": [
@@ -10130,7 +10134,7 @@
 										"name": "Circles of Power",
 										"entries": [
 											"Each fey noble is supreme in his or her own bailiwick, and the rulers maintain a rigid hierarchy among themselves. Thee Queen of Night and Magic is undeniably the most powerful of all fey nobles, and she rules cyclically with her embittered husband, the Moonlit King. Together, the Summer and Winter monarchs rule over the entire shadow fey race. Thee River King is next in power, and he rules over the river elves of the Arbonesse forest. Thee Snow Queen rules among the ice, snow, and plundering reavers of the far north, as wells as commanding the obedience of the {@creature fraughashar|ToB} and {@creature ice maiden|ToB|ice maidens}. The Bear King, the weakest politically, rules a northerly city-state where {@creature werebear|mm|werebears} are common and mead flows like water.",
-											"Thee odd man out is the Lord of the Hunt. Though he is associated with both the shadow fey and the light elves, no one is certain of his true identity or how he ¤ts into the political structure of fey nobility. Because he seldom concerns himself with politics, few have felt any need to press the question.",
+											"Thee odd man out is the Lord of the Hunt. Though he is associated with both the shadow fey and the light elves, no one is certain of his true identity or how he fits into the political structure of fey nobility. Because he seldom concerns himself with politics, few have felt any need to press the question.",
 											"Other fey courts and rulers certainly exist, though their rulers are more esoteric than those described here."
 										]
 									},
@@ -11220,6 +11224,9 @@
 							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Black Knight Commander.webp"
 						}
 					}
+				],
+				"entries": [
+					"The black knight commander strikes an imposing figure upon his chosen mount; one that inspires bloodlust in his allies and fear in his foes. Devoted to his own twisted code, the black knight commander has a sense of honor but he spares no compassion for those who stand in his way. Whether he fights for a dark lord or a demonic god, all of his foes will be trampled into the dust and their families slaughtered so there can be no revenge. The only victory is a total victory."
 				]
 			},
 			"actionTags": [
@@ -16006,6 +16013,9 @@
 							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/City Watch Captain.webp"
 						}
 					}
+				],
+				"entries": [
+					"This person could easily have been on the other side of the law, but he likes the way he looks in the city watch uniform—and the way city residents look at him when he walks down the street leading a patrol. With a long mustache and a jaunty cap, there's no denying that he cuts a rakishly handsome figure. While a trained investigator, the city watch captain is not afraid to draw his blade to end a threat to his city."
 				]
 			},
 			"actionTags": [
@@ -18095,6 +18105,9 @@
 							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Corrupted Ogre Chieftain.webp"
 						}
 					}
+				],
+				"entries": [
+					"Twisted by wild magic, fiendish power, or arcane disease, the corrupted ogre chieftain has turned its mutation into an advantage. The corruption within makes this chieftain stronger and more savage than the ogres it bullies and commands."
 				]
 			},
 			"actionTags": [
@@ -21038,6 +21051,9 @@
 							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Devilbound Gnomish Prince.webp"
 						}
 					}
+				],
+				"entries": [
+					"The devilbound gnomish prince with a small cat on his shoulder offers a friendly smile while twirling his mustache. Just like his familiar, he is a servant of the Eleven Hells who has sold his soul for infernal power. Now he seeks even more power, and that costs even more souls."
 				]
 			},
 			"traitTags": [
@@ -23867,6 +23883,9 @@
 							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Dwarven Ringmage.webp"
 						}
 					}
+				],
+				"entries": [
+					"The dwarven ringmage is a master of the imbuing magic of the reaver dwarves. With his aid, his reaver allies are more than just dangerous warriors; they can augment their abilities with powerful spells or surprise their enemies with unexpected powers. Often well armored and always bearing a host of spells, the dwarven ringmage can dominate any battlefield."
 				]
 			},
 			"actionTags": [
@@ -25393,6 +25412,9 @@
 							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Elvish Veteran Archer.webp"
 						}
 					}
+				],
+				"entries": [
+					"The elvish veteran archer is a stealthy hunter that quietly slips through the wood watching for game or intruders. While capable with a sword, the elvish archer's true skill lies with the longbow and when unseen, she can launch a volley of arrows at her foes with deadly result."
 				]
 			},
 			"actionTags": [
@@ -25786,6 +25808,9 @@
 							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Emerald Order Cult Leader.webp"
 						}
 					}
+				],
+				"entries": [
+					"The Emerald Order cult leader has embraced the mysteries of the Emerald Tablet and has bent his worship of Thoth-Hermes to furthering the efforts of the Order. He seeks to gather arcane and alchemical knowledge wherever it is found by any means necessary. If subtle manipulations fail, he is not above using lethal methods to ensure the cult's goals are met."
 				]
 			},
 			"actionTags": [
@@ -29155,7 +29180,7 @@
 						"type": "entries",
 						"name": "Flame Dragon's Lair",
 						"entries": [
-							"Flame dragons dwell in lairs where a burning ¤re is always near: volcanoes, sulfur mines, caves full of geysers, and places where the Elemental Plane of Fire touches the Material Plane. Whatever the place, its purpose is always to serve as a showcase of all the trophies the dragon has collected. Carefully arranged and organized prizes decorate the walls, sometimes even protected behind crystal walls. This display both feeds the dragon's vanity and pride, and also serves as a lure to attract adventurers, since flame dragons love to encourage the lowest instincts in their prey.",
+							"Flame dragons dwell in lairs where a burning fire is always near: volcanoes, sulfur mines, caves full of geysers, and places where the Elemental Plane of Fire touches the Material Plane. Whatever the place, its purpose is always to serve as a showcase of all the trophies the dragon has collected. Carefully arranged and organized prizes decorate the walls, sometimes even protected behind crystal walls. This display both feeds the dragon's vanity and pride, and also serves as a lure to attract adventurers, since flame dragons love to encourage the lowest instincts in their prey.",
 							"Many of these lairs feature a huge, reflective surface. A flame dragon likes nothing more than itself."
 						]
 					}
@@ -30400,7 +30425,7 @@
 										"type": "entries",
 										"name": "Tireless Defender",
 										"entries": [
-											"The gearforged templar is relentless in pursuit of its duty. More so then  other gearforged, the champion’s mindset becomes fixed on its charge to the exclusion of distractions and even magical coercion. Gearforged templars serve as commanders of military or guard units, bodyguards for important individuals, or personal champions for nobility."
+											"The gearforged templar is relentless in pursuit of its duty. More so then  other gearforged, the champion's mindset becomes fixed on its charge to the exclusion of distractions and even magical coercion. Gearforged templars serve as commanders of military or guard units, bodyguards for important individuals, or personal champions for nobility."
 										]
 									},
 									{
@@ -30685,6 +30710,9 @@
 							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Ghost Knight.webp"
 						}
 					}
+				],
+				"entries": [
+					"The ghost knight has accepted the blessing of undeath to advance through the ranks. Mounted on undead warhorse (treat as warhorse skeleton), the ghost knight is a dangerous foe, spearing enemies with her lance and trampling foes under her mount's hooves."
 				]
 			},
 			"actionTags": [
@@ -37163,7 +37191,7 @@
 										"name": "Filthy Illusions",
 										"entries": [
 											"Kikimoras are devious house spirits who torment those they live with unless they are catered to and cajoled. They delight in harassing homeowners with their illusions, making a house look much filthier than it actually is. Their favored illusions include mold, filth, and scuttling vermin.",
-											"They love secretly breaking things or making such destruction seem like an accident. They then convince the house’s residents to leave gifts as enticement for making repairs in the night."
+											"They love secretly breaking things or making such destruction seem like an accident. They then convince the house's residents to leave gifts as enticement for making repairs in the night."
 										]
 									},
 									{
@@ -40999,7 +41027,7 @@
 										"name": "Circles of Power",
 										"entries": [
 											"Each fey noble is supreme in his or her own bailiwick, and the rulers maintain a rigid hierarchy among themselves. Thee Queen of Night and Magic is undeniably the most powerful of all fey nobles, and she rules cyclically with her embittered husband, the Moonlit King. Together, the Summer and Winter monarchs rule over the entire shadow fey race. Thee River King is next in power, and he rules over the river elves of the Arbonesse forest. Thee Snow Queen rules among the ice, snow, and plundering reavers of the far north, as wells as commanding the obedience of the {@creature fraughashar|ToB} and {@creature ice maiden|ToB|ice maidens}. The Bear King, the weakest politically, rules a northerly city-state where {@creature werebear|mm|werebears} are common and mead flows like water.",
-											"Thee odd man out is the Lord of the Hunt. Though he is associated with both the shadow fey and the light elves, no one is certain of his true identity or how he ¤ts into the political structure of fey nobility. Because he seldom concerns himself with politics, few have felt any need to press the question.",
+											"Thee odd man out is the Lord of the Hunt. Though he is associated with both the shadow fey and the light elves, no one is certain of his true identity or how he fits into the political structure of fey nobility. Because he seldom concerns himself with politics, few have felt any need to press the question.",
 											"Other fey courts and rulers certainly exist, though their rulers are more esoteric than those described here."
 										]
 									},
@@ -45768,7 +45796,7 @@
 										"name": "Circles of Power",
 										"entries": [
 											"Each fey noble is supreme in his or her own bailiwick, and the rulers maintain a rigid hierarchy among themselves. Thee Queen of Night and Magic is undeniably the most powerful of all fey nobles, and she rules cyclically with her embittered husband, the Moonlit King. Together, the Summer and Winter monarchs rule over the entire shadow fey race. Thee River King is next in power, and he rules over the river elves of the Arbonesse forest. Thee Snow Queen rules among the ice, snow, and plundering reavers of the far north, as wells as commanding the obedience of the {@creature fraughashar|ToB} and {@creature ice maiden|ToB|ice maidens}. The Bear King, the weakest politically, rules a northerly city-state where {@creature werebear|mm|werebears} are common and mead flows like water.",
-											"Thee odd man out is the Lord of the Hunt. Though he is associated with both the shadow fey and the light elves, no one is certain of his true identity or how he ¤ts into the political structure of fey nobility. Because he seldom concerns himself with politics, few have felt any need to press the question.",
+											"Thee odd man out is the Lord of the Hunt. Though he is associated with both the shadow fey and the light elves, no one is certain of his true identity or how he fits into the political structure of fey nobility. Because he seldom concerns himself with politics, few have felt any need to press the question.",
 											"Other fey courts and rulers certainly exist, though their rulers are more esoteric than those described here."
 										]
 									},
@@ -50915,7 +50943,7 @@
 										"name": "Circles of Power",
 										"entries": [
 											"Each fey noble is supreme in his or her own bailiwick, and the rulers maintain a rigid hierarchy among themselves. Thee Queen of Night and Magic is undeniably the most powerful of all fey nobles, and she rules cyclically with her embittered husband, the Moonlit King. Together, the Summer and Winter monarchs rule over the entire shadow fey race. Thee River King is next in power, and he rules over the river elves of the Arbonesse forest. Thee Snow Queen rules among the ice, snow, and plundering reavers of the far north, as wells as commanding the obedience of the {@creature fraughashar|ToB} and {@creature ice maiden|ToB|ice maidens}. The Bear King, the weakest politically, rules a northerly city-state where {@creature werebear|mm|werebears} are common and mead flows like water.",
-											"Thee odd man out is the Lord of the Hunt. Though he is associated with both the shadow fey and the light elves, no one is certain of his true identity or how he ¤ts into the political structure of fey nobility. Because he seldom concerns himself with politics, few have felt any need to press the question.",
+											"Thee odd man out is the Lord of the Hunt. Though he is associated with both the shadow fey and the light elves, no one is certain of his true identity or how he fits into the political structure of fey nobility. Because he seldom concerns himself with politics, few have felt any need to press the question.",
 											"Other fey courts and rulers certainly exist, though their rulers are more esoteric than those described here."
 										]
 									},
@@ -51227,7 +51255,7 @@
 										"name": "Circles of Power",
 										"entries": [
 											"Each fey noble is supreme in his or her own bailiwick, and the rulers maintain a rigid hierarchy among themselves. Thee Queen of Night and Magic is undeniably the most powerful of all fey nobles, and she rules cyclically with her embittered husband, the Moonlit King. Together, the Summer and Winter monarchs rule over the entire shadow fey race. Thee River King is next in power, and he rules over the river elves of the Arbonesse forest. Thee Snow Queen rules among the ice, snow, and plundering reavers of the far north, as wells as commanding the obedience of the {@creature fraughashar|ToB} and {@creature ice maiden|ToB|ice maidens}. The Bear King, the weakest politically, rules a northerly city-state where {@creature werebear|mm|werebears} are common and mead flows like water.",
-											"Thee odd man out is the Lord of the Hunt. Though he is associated with both the shadow fey and the light elves, no one is certain of his true identity or how he ¤ts into the political structure of fey nobility. Because he seldom concerns himself with politics, few have felt any need to press the question.",
+											"Thee odd man out is the Lord of the Hunt. Though he is associated with both the shadow fey and the light elves, no one is certain of his true identity or how he fits into the political structure of fey nobility. Because he seldom concerns himself with politics, few have felt any need to press the question.",
 											"Other fey courts and rulers certainly exist, though their rulers are more esoteric than those described here."
 										]
 									},
@@ -54205,7 +54233,7 @@
 										"name": "Circles of Power",
 										"entries": [
 											"Each fey noble is supreme in his or her own bailiwick, and the rulers maintain a rigid hierarchy among themselves. Thee Queen of Night and Magic is undeniably the most powerful of all fey nobles, and she rules cyclically with her embittered husband, the Moonlit King. Together, the Summer and Winter monarchs rule over the entire shadow fey race. Thee River King is next in power, and he rules over the river elves of the Arbonesse forest. Thee Snow Queen rules among the ice, snow, and plundering reavers of the far north, as wells as commanding the obedience of the {@creature fraughashar|ToB} and {@creature ice maiden|ToB|ice maidens}. The Bear King, the weakest politically, rules a northerly city-state where {@creature werebear|mm|werebears} are common and mead flows like water.",
-											"Thee odd man out is the Lord of the Hunt. Though he is associated with both the shadow fey and the light elves, no one is certain of his true identity or how he ¤ts into the political structure of fey nobility. Because he seldom concerns himself with politics, few have felt any need to press the question.",
+											"Thee odd man out is the Lord of the Hunt. Though he is associated with both the shadow fey and the light elves, no one is certain of his true identity or how he fits into the political structure of fey nobility. Because he seldom concerns himself with politics, few have felt any need to press the question.",
 											"Other fey courts and rulers certainly exist, though their rulers are more esoteric than those described here."
 										]
 									},
@@ -57633,6 +57661,9 @@
 							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Scorpion%20Cultist.webp"
 						}
 					}
+				],
+				"entries": [
+					"Trained as part guardian and part assassin, the cultists of Selket are organized into cells strike in the name of the Scorpion Goddess. The scorpion cultist watches for those who blaspheme the name of their goddess or defile its sacred places. Their enemies find themselves the target of poisoned blades or an apparent accident, while those who praise Selket or care for the desert nomads are quietly helped. On special missions, their cell leader, scorpion cultists might doff their traditional garb and infiltrate towns or cities."
 				]
 			}
 		},
@@ -61767,7 +61798,7 @@
 										"name": "Circles of Power",
 										"entries": [
 											"Each fey noble is supreme in his or her own bailiwick, and the rulers maintain a rigid hierarchy among themselves. Thee Queen of Night and Magic is undeniably the most powerful of all fey nobles, and she rules cyclically with her embittered husband, the Moonlit King. Together, the Summer and Winter monarchs rule over the entire shadow fey race. Thee River King is next in power, and he rules over the river elves of the Arbonesse forest. Thee Snow Queen rules among the ice, snow, and plundering reavers of the far north, as wells as commanding the obedience of the {@creature fraughashar|ToB} and {@creature ice maiden|ToB|ice maidens}. The Bear King, the weakest politically, rules a northerly city-state where {@creature werebear|mm|werebears} are common and mead flows like water.",
-											"Thee odd man out is the Lord of the Hunt. Though he is associated with both the shadow fey and the light elves, no one is certain of his true identity or how he ¤ts into the political structure of fey nobility. Because he seldom concerns himself with politics, few have felt any need to press the question.",
+											"Thee odd man out is the Lord of the Hunt. Though he is associated with both the shadow fey and the light elves, no one is certain of his true identity or how he fits into the political structure of fey nobility. Because he seldom concerns himself with politics, few have felt any need to press the question.",
 											"Other fey courts and rulers certainly exist, though their rulers are more esoteric than those described here."
 										]
 									},
@@ -72012,6 +72043,9 @@
 							"url": "https://raw.githubusercontent.com/Spappz/homebrew/imgz/_img/ToB/Wolf Reaver Dwarf.webp"
 						}
 					}
+				],
+				"entries": [
+					"Like his totem, the wolf reaver dwarf travels in a pack with his brothers in arms looking for worthy challenges to prove himself. Rushing into battle beside his allies for glory as much as plunder, the wolf reaver dwarf throws caution to the wind and fights without care for his own safety."
 				]
 			},
 			"actionTags": [
@@ -73180,7 +73214,7 @@
 						"type": "entries",
 						"name": "Flame Dragon's Lair",
 						"entries": [
-							"Flame dragons dwell in lairs where a burning ¤re is always near: volcanoes, sulfur mines, caves full of geysers, and places where the Elemental Plane of Fire touches the Material Plane. Whatever the place, its purpose is always to serve as a showcase of all the trophies the dragon has collected. Carefully arranged and organized prizes decorate the walls, sometimes even protected behind crystal walls. This display both feeds the dragon's vanity and pride, and also serves as a lure to attract adventurers, since flame dragons love to encourage the lowest instincts in their prey.",
+							"Flame dragons dwell in lairs where a burning fire is always near: volcanoes, sulfur mines, caves full of geysers, and places where the Elemental Plane of Fire touches the Material Plane. Whatever the place, its purpose is always to serve as a showcase of all the trophies the dragon has collected. Carefully arranged and organized prizes decorate the walls, sometimes even protected behind crystal walls. This display both feeds the dragon's vanity and pride, and also serves as a lure to attract adventurers, since flame dragons love to encourage the lowest instincts in their prey.",
 							"Many of these lairs feature a huge, reflective surface. A flame dragon likes nothing more than itself."
 						]
 					}
