@@ -25,9 +25,38 @@
 			"monsterFluff"
 		]
 	},
+	"legendaryGroup": [
+		{
+			"name": "Aboleth Sovereign",
+			"source": "MModule",
+			"lairActions": [
+				"When fighting inside its lair, an aboleth can invoke the ambient magic to take lair actions. On initiative count 20 (losing initiative ties), the aboleth takes a lair action to cause one of the following effects:",
+				{
+					"type": "list",
+					"items": [
+						"The aboleth sovereign casts {@spell phantasmal force} (no components required) on any number of creatures it can see within 60 feet of it. While maintaining concentration on this effect, the aboleth can’t take other lair actions.",
+						"Pools of water within 150 feet of the aboleth sovereign surge outward in a grasping tide. Any creature on the ground within 20 feet of such a pool must succeed on a {@dc 19} Strength saving throw or be pulled up to 20 feet into the water and {@condition restrained} until the end of their next turn. The aboleth can’t use this lair action again until it has used a different one.",
+						"Water in the aboleth sovereign's lair becomes momentarily charged with psychic energy. The aboleth sovereign can target any number of creatures it can see in such water within 150 feet of it. A target must succeed on a {@dc 19} Wisdom saving throw or take 14 ({@damage 4d6}) psychic damage and become {@condition paralyzed} until the end of their next turn. The aboleth can’t use this lair action again until it has used a different one."
+					]
+				}
+			],
+			"regionalEffects": [
+				"The region containing an aboleth's lair is warped by the creature's presence, which creates one or more of the following effects:",
+				{
+					"type": "list",
+					"items": [
+						"Underground surfaces within 1 mile of the aboleth's lair are slimy and wet and are difficult terrain.",
+						"Water sources within 1 mile of the lair are supernaturally fouled. Enemies of the aboleth that drink such water vomit it within minutes.",
+						 "As an action, the aboleth can create an illusory image of itself within 1 mile of the lair. The copy can appear at any location the aboleth has seen before or in any location a creature {@condition charmed} by the aboleth can currently see. Once created, the image lasts for as long as the aboleth maintains concentration, as if concentrating on a spell. Although the image is intangible, it looks, sounds, and can move like the aboleth. The aboleth can sense, speak, and use telepathy from the image's position as if present at that position. If the image takes any damage, it disappears."
+					]
+				},
+				"If the aboleth dies, the first two effects fade over the course of {@dice 3d10} days."
+			]
+		}
+	],
 	"disease": [
 		{
-			"name": "Adjet Bloodlust",
+			"name": "Adlet Bloodlust",
 			"source": "MModule",
 			"entries": [
 				"Symptoms manifest after {@dice 1d4} hours, and they include nausea, disorientation, and the unwavering desire to eat humanoid flesh. The infected creature gains one level of {@condition exhaustion} that can't be removed until the disease is cured. If the infected creature attempts to consume food other than humanoid flesh or drink anything besides humanoid blood, it must succeed on a {@dc 20} Constitution saving throw or immediately vomit up whatever it consumed, gaining no nutritional value from it.",
@@ -1070,7 +1099,10 @@
 					]
 				}
 			],
-			"legendaryGroup": "Aboleth Sovereign",
+			"legendaryGroup": {
+				"name": "Aboleth Sovereign",
+				"source": "MModule"
+			},
 			"legendary": [
 				{
 					"name": "Detect",
@@ -1133,7 +1165,11 @@
 			],
 			"conditionInflict": [
 				"charmed"
-			]
+			],
+			"legendaryGroup": {
+				"name": "Aboleth Sovereign",
+				"source": "MModule"
+			}
 		},
 		{
 			"source": "MModule",
@@ -1237,7 +1273,7 @@
 				{
 					"name": "Detect",
 					"entries": [
-						"The aboleth makes a Wisdom (Perception) check."
+						"The aboleth makes a Wisdom ({@skill Perception}) check."
 					]
 				},
 				{
@@ -1249,12 +1285,7 @@
 				{
 					"name": "Psychic Drain (Costs 2 Actions)",
 					"entries": [
-						"One creature {@condition charmed} by the aboleth takes 10 ({@damage 3d6}) psychic damage, and the aboleth regains hit points equal to the damage the creature takes.",
-						"Lair Actions",
-						"When fighting inside its lair, an aboleth can invoke the ambient magic to take lair actions. On initiative count 20 (losing initiative ties), the aboleth takes a lair action to cause one of the following effects:",
-						"The aboleth casts phantasmal force (no components required) on any number of creatures it can see within 60 feet of it. While maintaining concentration on this effect, the aboleth can't take other lair actions. If a target succeeds on the saving throw or if the effect ends for it, the target is immune to the aboleth's phantasmal force lair action for the next 24 hours, although such a creature can choose to be affected.",
-						"Pools of water within 90 feet of the aboleth surge outward in a grasping tide. Any creature on the ground within 20 feet of such a pool must succeed on a {@dc 14} Strength saving throw or be pulled up to 20 feet into the water and knocked {@condition prone}. The aboleth can't use this lair action again until it has used a different one.",
-						"Water in the aboleth's lair magically becomes a conduit for the creature's rage. The aboleth can target any number of creatures it can see in such water within 90 feet of it. A target must succeed on a {@dc 14} Wisdom saving throw or take 7 ({@damage 2d6}) psychic damage. The aboleth can't use this lair action again until it has used a different one."
+						"One creature {@condition charmed} by the aboleth takes 10 ({@damage 3d6}) psychic damage, and the aboleth regains hit points equal to the damage the creature takes."
 					]
 				}
 			],
@@ -1262,10 +1293,7 @@
 				{
 					"name": "Innate Spellcasting",
 					"headerEntries": [
-						"The aboleth's innate spellcasting",
-						"ability is Charisma (spell save {@dc 16}). The aboleth can",
-						"innately cast the following spells, requiring no material",
-						"components."
+						"The aboleth's innate spellcasting ability is Charisma (spell save {@dc 16}). The aboleth can innately cast the following spells, requiring no material components."
 					],
 					"will": [
 						"{@spell silent image}"
@@ -1439,7 +1467,10 @@
 					]
 				}
 			],
-			"legendaryGroup": "Aboleth Sovereign",
+			"legendaryGroup": {
+				"name": "Aboleth Sovereign",
+				"source": "MModule"
+			},
 			"legendary": [
 				{
 					"name": "Detect",
@@ -1464,10 +1495,7 @@
 				{
 					"name": "Innate Spellcasting",
 					"headerEntries": [
-						"The aboleth sovereign's innate",
-						"spellcasting ability is Charisma (spell save {@dc 19}). The",
-						"aboleth can innately cast the following spells, requiring no",
-						"material components."
+						"The aboleth sovereign's innate spellcasting ability is Charisma (spell save {@dc 19}). The aboleth can innately cast the following spells, requiring no material components."
 					],
 					"will": [
 						"{@spell major image}"
@@ -10326,30 +10354,11 @@
 			"source": "MModule"
 		}
 	],
-	"legendaryGroup": [
-		{
-			"name": "Aboleth Sovereign",
-			"source": "MModule",
-			"lairActions": [
-				"When fighting inside is lair, an aboleth sovereign can invoke ambient magic to take lair actions. On initiative count 20 (losing initiative ties), the aboleth sovereign takes a lair action to cause one of the following effects:",
-				{
-					"type": "list",
-					"items": [
-						"The aboleth sovereign casts phantasmal force (no components required) on any number of creatures it can see within 60 feet of it. While maintaining concentration on this effect, the aboleth can't take other lair actions.",
-						"Pools of water within 150 feet of the aboleth sovereign surge outward in a grasping tide. Any creature on the ground within 20 feet of such a pool must succeed on a DC 19 Strength saving throw or be pulled up to 20 feet into the water and {@condition restrained} until the end of their next turn. The aboleth can't use this lair action again until it has used a different one.",
-						"Water in the aboleth sovereign's lair becomes momentarily charged with psychic energy. The aboleth sovereign can target any number of creatures it can see in such water within 150 feet of it. A target must succeed on a DC 19 Wisdom saving throw or take 14 ({@damage 4d6}) psychic damage and become paralyzed until the end of their next turn. The aboleth can't use this lair action again until it has used a different one."
-					]
-				}
-			],
-			"regionalEffects": [
-				"The area containing an aboleth sovereign's lair contains all the same effects as an aboleth, as listed in the Monster Manual."
-			]
-		}
-	],
 	"spell": [
 		{
 			"name": "Animate Construct",
 			"source": "MModule",
+			"page": 12,
 			"level": 3,
 			"school": "T",
 			"time": [
