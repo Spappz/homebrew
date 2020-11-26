@@ -108,7 +108,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Aarakocra Captain.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Aarakocra Captain.webp"
 						}
 					}
 				],
@@ -199,7 +199,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Aarakocra Sharpshooter.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Aarakocra Captain.webp"
 						}
 					}
 				],
@@ -384,7 +384,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Aarakocra Priest of Aerdrie.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Aarakocra Priest of Aerdrie.webp"
 						}
 					}
 				],
@@ -549,7 +549,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Aboleth Sovereign.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Aboleth Sovereign.webp"
 						}
 					}
 				],
@@ -754,7 +754,22 @@
 			"conditionInflictSpell": [
 				"charmed",
 				"incapacitated"
-			]
+			],
+			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "internal",
+							"path": "bestiary/MM/Aboleth.jpg"
+						}
+					}
+				],
+				"_monsterFluff": {
+					"name": "Aboleth",
+					"source": "MM"
+				}
+			}
 		},
 		{
 			"source": "MModule",
@@ -924,7 +939,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Aboleth Sovereign.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Aboleth Sovereign.webp"
 						}
 					}
 				],
@@ -1059,7 +1074,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Young Aboleth.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Young Aboleth.webp"
 						}
 					}
 				],
@@ -1175,7 +1190,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Adlet.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Adlet.webp"
 						}
 					}
 				],
@@ -1314,7 +1329,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Ahklut.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Ahklut.webp"
 						}
 					}
 				],
@@ -1479,7 +1494,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Agathion.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Agathion.webp"
 						}
 					}
 				],
@@ -1648,7 +1663,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Valkyrie.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Valkyrie.webp"
 						}
 					}
 				],
@@ -1800,7 +1815,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Animator's Staff.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Animator's Staff.webp"
 						}
 					}
 				],
@@ -1922,17 +1937,8 @@
 			"senseTags": [
 				"B"
 			],			"fluff": {
-				"images": [
-					{
-						"type": "image",
-						"href": {
-							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Aarakocra Captain.webp"
-						}
-					}
-				],
 				"_monsterFluff": {
-					"name": "Aarakocra Captain",
+					"name": "Animator's Wand",
 					"source": "MModule"
 				}
 			},
@@ -2030,17 +2036,8 @@
 			"senseTags": [
 				"B"
 			],			"fluff": {
-				"images": [
-					{
-						"type": "image",
-						"href": {
-							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Aarakocra Captain.webp"
-						}
-					}
-				],
 				"_monsterFluff": {
-					"name": "Aarakocra Captain",
+					"name": "Flying Caltrop",
 					"source": "MModule"
 				}
 			},
@@ -2148,12 +2145,12 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Aarakocra Captain.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Flying Shield.webp"
 						}
 					}
 				],
 				"_monsterFluff": {
-					"name": "Aarakocra Captain",
+					"name": "Flying Shield",
 					"source": "MModule"
 				}
 			},
@@ -2249,17 +2246,8 @@
 			"senseTags": [
 				"B"
 			],			"fluff": {
-				"images": [
-					{
-						"type": "image",
-						"href": {
-							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Aarakocra Captain.webp"
-						}
-					}
-				],
 				"_monsterFluff": {
-					"name": "Aarakocra Captain",
+					"name": "Sack of Smothering",
 					"source": "MModule"
 				}
 			},
@@ -2378,17 +2366,8 @@
 			"senseTags": [
 				"B"
 			],			"fluff": {
-				"images": [
-					{
-						"type": "image",
-						"href": {
-							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Aarakocra Captain.webp"
-						}
-					}
-				],
 				"_monsterFluff": {
-					"name": "Aarakocra Captain",
+					"name": "Flying Caltrop",
 					"source": "MModule"
 				}
 			},
@@ -2501,21 +2480,7 @@
 			],
 			"senseTags": [
 				"B"
-			],			"fluff": {
-				"images": [
-					{
-						"type": "image",
-						"href": {
-							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Aarakocra Captain.webp"
-						}
-					}
-				],
-				"_monsterFluff": {
-					"name": "Aarakocra Captain",
-					"source": "MModule"
-				}
-			},
+			],
 			"miscTags": [
 				"MW"
 			],
@@ -2546,7 +2511,7 @@
 				},
 				{
 					"ac": 12,
-					"condition": "while prone"
+					"condition": "while {@condition prone}"
 				}
 			],
 			"hp": {
@@ -2618,7 +2583,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Jungle Ankheg.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Jungle Ankheg.webp"
 						}
 					}
 				],
@@ -2731,7 +2696,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Azer Artisan.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Azer Lord.webp"
 						}
 					}
 				],
@@ -2857,7 +2822,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Azer Lord.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Azer Lord.webp"
 						}
 					}
 				],
@@ -3037,7 +3002,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Baku.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Baku.webp"
 						}
 					}
 				],
@@ -3210,7 +3175,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Bewailer.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Bewailer.webp"
 						}
 					}
 				],
@@ -3323,7 +3288,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Greater Basilisk.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Greater Basilisk.webp"
 						}
 					}
 				],
@@ -3430,7 +3395,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Marine Basilisk.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Marine Basilisk.webp"
 						}
 					}
 				],
@@ -3574,7 +3539,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Plated Behir.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Plated Behir.webp"
 						}
 					}
 				],
@@ -3699,11 +3664,11 @@
 				{
 					"name": "Eye Rays",
 					"entries": [
-						"The beholder shoots two of the following magical eye rays at random (reroll duplicates), choosing up to two targets it can see within 120 feet of it:",
-						"1. Enervation Ray. The target must succeed on a {@dc 14} Constitution saving throw, taking 18 ({@damage 4d8}) necrotic damage on a failed save, or half as much damage on a successful one.",
-						"2. Pushing Ray. The target creature must succeed on a {@dc 14} Strength saving throw or be pushed up to 15 feet directly away from the beholder and have its speed halved until the start of the beholder's next turn.",
-						"3. Paralyzing Ray. The targeted creature must succeed on a {@dc 14} Constitution saving throw or be {@condition paralyzed} for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
-						"4. Sleep Ray. The targeted creature must succeed on a {@dc 14} Wisdom saving throw or fall asleep and remain {@condition unconscious} for 1 minute. The target awakens if it takes damage or another creature takes an action to wake it. This ray has no effect on constructs and undead."
+						"The beholder shoots two of the following magical eye rays at {@dice 1d4|random} (reroll duplicates), choosing up to two targets it can see within 120 feet of it:",
+						"1. {@i Enervation Ray.} The target must succeed on a {@dc 14} Constitution saving throw, taking 18 ({@damage 4d8}) necrotic damage on a failed save, or half as much damage on a successful one.",
+						"2. {@i Pushing Ray.} The target creature must succeed on a {@dc 14} Strength saving throw or be pushed up to 15 feet directly away from the beholder and have its speed halved until the start of the beholder's next turn.",
+						"3. {@i Paralyzing Ray.} The targeted creature must succeed on a {@dc 14} Constitution saving throw or be {@condition paralyzed} for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
+						"4. {@i Sleep Ray.} The targeted creature must succeed on a {@dc 14} Wisdom saving throw or fall asleep and remain {@condition unconscious} for 1 minute. The target awakens if it takes damage or another creature takes an action to wake it. This ray has no effect on constructs and undead."
 					]
 				}
 			],
@@ -3726,7 +3691,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Eye of the Deep.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Eye of the Deep.webp"
 						}
 					}
 				],
@@ -3846,7 +3811,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Bramble Blight.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Bramble Blight.webp"
 						}
 					}
 				],
@@ -3959,7 +3924,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Branch Blight.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Branch Blight.webp"
 						}
 					}
 				],
@@ -4057,7 +4022,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Wood Blight.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Wood Blight.webp"
 						}
 					}
 				],
@@ -4181,7 +4146,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Bugbear Assassin.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Bugbear Assassin.webp"
 						}
 					}
 				],
@@ -4336,7 +4301,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Bugbear Champion of Hruggek.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Bugbear Champion of Hruggek.webp"
 						}
 					}
 				],
@@ -4459,7 +4424,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Bullywug Chief.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Bullywug Chief.webp"
 						}
 					}
 				],
@@ -4585,7 +4550,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Bullywug Hunter.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Bullywug Hunter.webp"
 						}
 					}
 				],
@@ -4750,7 +4715,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Bullywug Shaman.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Bullywug Shaman.webp"
 						}
 					}
 				],
@@ -4924,7 +4889,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Alu-fiend.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Alu-fiend.webp"
 						}
 					}
 				],
@@ -5133,7 +5098,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Spawn of Graz'zt.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Spawn of Graz'zt.webp"
 						}
 					}
 				],
@@ -5334,7 +5299,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Spawn of Orcus.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Spawn of Orcus.webp"
 						}
 					}
 				],
@@ -5460,7 +5425,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Tangle Crawler.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Tangle Crawler.webp"
 						}
 					}
 				],
@@ -5631,7 +5596,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Centaur Knight.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Centaur Knight.webp"
 						}
 					}
 				],
@@ -5764,7 +5729,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Centaur Marksman.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Centaur Marksman.webp"
 						}
 					}
 				],
@@ -5908,7 +5873,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Centaur Spiritcaller.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Centaur Spiritcaller.webp"
 						}
 					}
 				],
@@ -6019,7 +5984,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Centaur Wildling.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Centaur Wildling.webp"
 						}
 					}
 				],
@@ -6177,7 +6142,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Cerynitis.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Cerynitis.webp"
 						}
 					}
 				],
@@ -6340,7 +6305,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Astral Chimera.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Astral Chimera.webp"
 						}
 					}
 				],
@@ -6456,7 +6421,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Demimaera.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Demimaera.webp"
 						}
 					}
 				],
@@ -6641,7 +6606,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Maeragorgon.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Maeragorgon.webp"
 						}
 					}
 				],
@@ -6760,7 +6725,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Chupacabra.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Chupacabra.webp"
 						}
 					}
 				],
@@ -6893,7 +6858,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Brass Spider.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Brass Spider.webp"
 						}
 					}
 				],
@@ -7044,7 +7009,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Electrum Drake.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Electrum Drake.webp"
 						}
 					}
 				],
@@ -7154,7 +7119,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Greater Cockatrice.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Greater Cockatrice.webp"
 						}
 					}
 				],
@@ -7319,7 +7284,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Fallen Couatl.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Fallen Couatl.webp"
 						}
 					}
 				],
@@ -7534,7 +7499,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Quetzalcouatl.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Quetzalcouatl.webp"
 						}
 					}
 				],
@@ -7701,7 +7666,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Crysmal.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Crysmal.webp"
 						}
 					}
 				],
@@ -7795,7 +7760,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Half-Cyclops.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Half-Cyclops.webp"
 						}
 					}
 				],
@@ -7938,7 +7903,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Infernal Cyclops.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Infernal Cyclops.webp"
 						}
 					}
 				],
@@ -8061,7 +8026,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Primal Cyclops.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Primal Cyclops.webp"
 						}
 					}
 				],
