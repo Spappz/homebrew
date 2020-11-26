@@ -9,9 +9,11 @@
 					"Jonoman3000"
 				],
 				"convertedBy": [
-					"zombiekiller 101"
+					"zombiekiller 101",
+					"Spappz",
+					"(tokens by Infamous)"
 				],
-				"version": "2",
+				"version": "1.0.1",
 				"url": "https://drive.google.com/file/d/0B-g9vLTX0eHKWDZHZ05QWkVNZVU/view",
 				"targetSchema": "1.6.3"
 			}
@@ -100,8 +102,16 @@
 			"languageTags": [
 				"AU",
 				"OTH"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Aarakocra Captain.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Aarakocra Captain",
 					"source": "MModule"
@@ -183,8 +193,16 @@
 			"languageTags": [
 				"AU",
 				"OTH"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Aarakocra Sharpshooter.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Aarakocra Sharpshooter",
 					"source": "MModule"
@@ -360,8 +378,16 @@
 			"languageTags": [
 				"AU",
 				"OTH"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Aarakocra Priest of Aerdrie.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Aarakocra Priest of Aerdrie",
 					"source": "MModule"
@@ -517,8 +543,16 @@
 			],
 			"senseTags": [
 				"SD"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Aboleth Sovereign.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Aboleth Sovereign",
 					"source": "MModule"
@@ -884,8 +918,16 @@
 			],
 			"senseTags": [
 				"SD"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Aboleth Sovereign.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Aboleth Sovereign",
 					"source": "MModule"
@@ -1011,8 +1053,16 @@
 			],
 			"senseTags": [
 				"SD"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Young Aboleth.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Young Aboleth",
 					"source": "MModule"
@@ -1119,8 +1169,16 @@
 			],
 			"senseTags": [
 				"D"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Adlet.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Adlet",
 					"source": "MModule"
@@ -1250,8 +1308,16 @@
 			],
 			"senseTags": [
 				"B"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Ahklut.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Ahklut",
 					"source": "MModule"
@@ -1407,8 +1473,16 @@
 			],
 			"senseTags": [
 				"SD"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Agathion.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Agathion",
 					"source": "MModule"
@@ -1568,8 +1642,16 @@
 			],
 			"senseTags": [
 				"SD"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Valkyrie.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Valkyrie",
 					"source": "MModule"
@@ -1712,8 +1794,16 @@
 			],
 			"senseTags": [
 				"B"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Animator's Staff.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Animator's Staff",
 					"source": "MModule"
@@ -1831,8 +1921,16 @@
 			],
 			"senseTags": [
 				"B"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Aarakocra Captain.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Aarakocra Captain",
 					"source": "MModule"
@@ -1931,8 +2029,16 @@
 			],
 			"senseTags": [
 				"B"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Aarakocra Captain.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Aarakocra Captain",
 					"source": "MModule"
@@ -2036,8 +2142,16 @@
 			],
 			"senseTags": [
 				"B"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Aarakocra Captain.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Aarakocra Captain",
 					"source": "MModule"
@@ -2134,8 +2248,16 @@
 			],
 			"senseTags": [
 				"B"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Aarakocra Captain.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Aarakocra Captain",
 					"source": "MModule"
@@ -2255,8 +2377,16 @@
 			],
 			"senseTags": [
 				"B"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Aarakocra Captain.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Aarakocra Captain",
 					"source": "MModule"
@@ -2371,8 +2501,16 @@
 			],
 			"senseTags": [
 				"B"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Aarakocra Captain.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Aarakocra Captain",
 					"source": "MModule"
@@ -2474,8 +2612,16 @@
 			"senseTags": [
 				"D",
 				"T"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Jungle Ankheg.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Jungle Ankheg",
 					"source": "MModule"
@@ -2579,8 +2725,16 @@
 			],
 			"languageTags": [
 				"IG"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Azer Artisan.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Azer Artisan",
 					"source": "MModule"
@@ -2697,8 +2851,16 @@
 			],
 			"languageTags": [
 				"IG"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Azer Lord.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Azer Lord",
 					"source": "MModule"
@@ -2869,8 +3031,16 @@
 			],
 			"senseTags": [
 				"U"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Baku.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Baku",
 					"source": "MModule"
@@ -3034,8 +3204,16 @@
 			],
 			"senseTags": [
 				"D"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Bewailer.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Bewailer",
 					"source": "MModule"
@@ -3139,8 +3317,16 @@
 			],
 			"senseTags": [
 				"D"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Greater Basilisk.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Greater Basilisk",
 					"source": "MModule"
@@ -3238,8 +3424,16 @@
 			],
 			"senseTags": [
 				"D"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Marine Basilisk.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Marine Basilisk",
 					"source": "MModule"
@@ -3374,8 +3568,16 @@
 			],
 			"senseTags": [
 				"SD"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Plated Behir.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Plated Behir",
 					"source": "MModule"
@@ -3518,8 +3720,16 @@
 			],
 			"senseTags": [
 				"SD"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Eye of the Deep.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Eye of the Deep",
 					"source": "MModule"
@@ -3630,8 +3840,16 @@
 			],
 			"senseTags": [
 				"B"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Bramble Blight.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Bramble Blight",
 					"source": "MModule"
@@ -3735,8 +3953,16 @@
 			],
 			"senseTags": [
 				"B"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Branch Blight.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Branch Blight",
 					"source": "MModule"
@@ -3825,8 +4051,16 @@
 			],
 			"senseTags": [
 				"B"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Wood Blight.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Wood Blight",
 					"source": "MModule"
@@ -3941,8 +4175,16 @@
 			],
 			"senseTags": [
 				"D"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Bugbear Assassin.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Bugbear Assassin",
 					"source": "MModule"
@@ -4088,8 +4330,16 @@
 			],
 			"senseTags": [
 				"D"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Bugbear Champion of Hruggek.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Bugbear Champion of Hruggek",
 					"source": "MModule"
@@ -4203,8 +4453,16 @@
 			],
 			"languageTags": [
 				"OTH"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Bullywug Chief.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Bullywug Chief",
 					"source": "MModule"
@@ -4321,8 +4579,16 @@
 			],
 			"languageTags": [
 				"OTH"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Bullywug Hunter.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Bullywug Hunter",
 					"source": "MModule"
@@ -4478,8 +4744,16 @@
 			],
 			"languageTags": [
 				"OTH"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Bullywug Shaman.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Bullywug Shaman",
 					"source": "MModule"
@@ -4644,8 +4918,16 @@
 			],
 			"senseTags": [
 				"D"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Alu-fiend.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Alu-fiend",
 					"source": "MModule"
@@ -4845,8 +5127,16 @@
 			],
 			"senseTags": [
 				"SD"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Spawn of Graz'zt.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Spawn of Graz'zt",
 					"source": "MModule"
@@ -5038,8 +5328,16 @@
 			],
 			"senseTags": [
 				"SD"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Spawn of Orcus.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Spawn of Orcus",
 					"source": "MModule"
@@ -5156,8 +5454,16 @@
 			],
 			"senseTags": [
 				"D"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Tangle Crawler.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Tangle Crawler",
 					"source": "MModule"
@@ -5319,8 +5625,16 @@
 				"C",
 				"E",
 				"S"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Centaur Knight.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Centaur Knight",
 					"source": "MModule"
@@ -5444,8 +5758,16 @@
 			"languageTags": [
 				"E",
 				"S"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Centaur Marksman.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Centaur Marksman",
 					"source": "MModule"
@@ -5580,8 +5902,16 @@
 			"languageTags": [
 				"E",
 				"S"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Centaur Spiritcaller.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Centaur Spiritcaller",
 					"source": "MModule"
@@ -5683,8 +6013,16 @@
 			"languageTags": [
 				"E",
 				"S"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Centaur Wildling.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Centaur Wildling",
 					"source": "MModule"
@@ -5833,8 +6171,16 @@
 			],
 			"senseTags": [
 				"SD"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Cerynitis.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Cerynitis",
 					"source": "MModule"
@@ -5988,8 +6334,16 @@
 			],
 			"senseTags": [
 				"D"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Astral Chimera.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Astral Chimera",
 					"source": "MModule"
@@ -6096,8 +6450,16 @@
 			],
 			"senseTags": [
 				"D"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Demimaera.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Demimaera",
 					"source": "MModule"
@@ -6273,8 +6635,16 @@
 			],
 			"senseTags": [
 				"D"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Maeragorgon.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Maeragorgon",
 					"source": "MModule"
@@ -6384,8 +6754,16 @@
 			],
 			"senseTags": [
 				"D"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Chupacabra.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Chupacabra",
 					"source": "MModule"
@@ -6509,8 +6887,16 @@
 			],
 			"senseTags": [
 				"D"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Brass Spider.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Brass Spider",
 					"source": "MModule"
@@ -6652,8 +7038,16 @@
 			],
 			"senseTags": [
 				"D"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Electrum Drake.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Electrum Drake",
 					"source": "MModule"
@@ -6754,8 +7148,16 @@
 			],
 			"senseTags": [
 				"D"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Greater Cockatrice.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Greater Cockatrice",
 					"source": "MModule"
@@ -6911,8 +7313,16 @@
 			],
 			"senseTags": [
 				"U"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Fallen Couatl.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Fallen Couatl",
 					"source": "MModule"
@@ -7118,8 +7528,16 @@
 			],
 			"senseTags": [
 				"U"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Quetzalcouatl.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Quetzalcouatl",
 					"source": "MModule"
@@ -7277,8 +7695,16 @@
 			"senseTags": [
 				"D",
 				"B"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Crysmal.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Crysmal",
 					"source": "MModule"
@@ -7363,8 +7789,16 @@
 			"languageTags": [
 				"C",
 				"GI"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Half-Cyclops.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Half-Cyclops",
 					"source": "MModule"
@@ -7498,8 +7932,16 @@
 				"C",
 				"GI",
 				"I"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Infernal Cyclops.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Infernal Cyclops",
 					"source": "MModule"
@@ -7613,8 +8055,16 @@
 			],
 			"languageTags": [
 				"GI"
-			],
-			"fluff": {
+			],			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/the-great-imgification/_img/MModule/Primal Cyclops.webp"
+						}
+					}
+				],
 				"_monsterFluff": {
 					"name": "Primal Cyclops",
 					"source": "MModule"
