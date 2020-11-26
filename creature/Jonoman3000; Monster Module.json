@@ -4141,15 +4141,6 @@
 			"senseTags": [
 				"D"
 			],			"fluff": {
-				"images": [
-					{
-						"type": "image",
-						"href": {
-							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/MModule-images/_img/MModule/Bugbear Assassin.webp"
-						}
-					}
-				],
 				"_monsterFluff": {
 					"name": "Bugbear Assassin",
 					"source": "MModule"
@@ -4738,6 +4729,7 @@
 		{
 			"source": "MModule",
 			"name": "Alu-fiend",
+			"group": "Cambions",
 			"size": "M",
 			"type": "fiend",
 			"alignment": [
@@ -4915,6 +4907,7 @@
 		{
 			"source": "MModule",
 			"name": "Spawn of Graz'zt",
+			"group": "Cambions",
 			"size": "M",
 			"type": {
 				"type": "fiend",
@@ -5130,6 +5123,7 @@
 			"source": "MModule",
 			"name": "Spawn of Orcus",
 			"size": "L",
+			"group": "Cambions",
 			"type": "fiend",
 			"alignment": [
 				"C",
@@ -6331,6 +6325,7 @@
 		},
 		{
 			"source": "MModule",
+			"group": "Chimeras",
 			"name": "Demimaera",
 			"size": "L",
 			"type": "monstrosity",
@@ -6450,6 +6445,7 @@
 		{
 			"source": "MModule",
 			"name": "Maeragorgon",
+			"group": "Chimeras",
 			"size": "H",
 			"type": "fiend",
 			"alignment": [
