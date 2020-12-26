@@ -11,9 +11,10 @@
 					"Dragonix"
 				],
 				"convertedBy": [
-					"Darkfalli"
+					"Darkfalli",
+					"Spappz"
 				],
-				"color": "E9752d"
+				"color": "E9752D"
 			}
 		],
 		"dateAdded": 1579291901,
@@ -138,7 +139,7 @@
 				{
 					"name": "Sorcery Points",
 					"entries": [
-						"The storm sorcerer has 11 sorcery points. It can spend l or more sorcery points as a bonus action to gain one of the following benefts:",
+						"The storm sorcerer has 11 sorcery points. It can spend l or more sorcery points as a bonus action to gain one of the following benefits:",
 						"Heightened Spell: When the storm sorcerer casts a spell that forces a creature to make a saving throw to resist the spell's effects, it can spend 3 sorcery points to give one target of the spell disadvantage on its first saving throw against the spell.",
 						"Quickened Spell: When the storm sorcerer casts a spell that has a casting time of 1 action, it can spend 2 sorcery points to change the casting time to 1 bonus action for this casting."
 					]
