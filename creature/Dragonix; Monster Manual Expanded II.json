@@ -111,7 +111,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The allip can move through other creatures and objects as if they were difcult terrain. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object.",
+						"The allip can move through other creatures and objects as if they were difficult terrain. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object.",
 						"Multi-headed. The allip has advantage on Wisdom (Perception) checks and on saving throws against being {@condition blinded}, {@condition deafened}, and {@condition stunned}."
 					]
 				}
@@ -288,7 +288,7 @@
 				{
 					"name": "Spider Climb",
 					"entries": [
-						"The aranea can climb difcult surfaces, including upside down on ceilings, without needing to make an ability check."
+						"The aranea can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
 					]
 				},
 				{
@@ -318,7 +318,7 @@
 					]
 				},
 				{
-					"name": "Web (Spider Form Only, Recharge 5-6)",
+					"name": "Web (Spider Form Only) {@recharge 5}",
 					"entries": [
 						"{@atk rw} {@hit 5} to hit, range 30/60 ft., one creature. {@h}The target is {@condition restrained} by webbing. As an action, the {@condition restrained} target can make a {@dc 13} Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage)."
 					]
@@ -510,7 +510,7 @@
 				{
 					"name": "Spider Climb",
 					"entries": [
-						"The aranea can climb difcult surfaces, including upside down on ceilings, without needing to make an ability check."
+						"The aranea can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
 					]
 				},
 				{
@@ -1922,7 +1922,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The doomsphere can move through other creatures and objects as if they were difcult terrain. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
+						"The doomsphere can move through other creatures and objects as if they were difficult terrain. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
 					]
 				}
 			],
@@ -3270,7 +3270,7 @@
 					"entries": [
 						"The boggle excretes nonflammable oil from its pores. The boggle chooses whether the oil is slippery or sticky and can change the oil on its skin from one consistency to another as a bonus action.",
 						"Slippery Oil: While coated in slippery oil, the boggle gains advantage on Dexterity (Acrobatics) checks made to escape bonds, squeeze through narrow spaces, and end grapples.",
-						"Sticky Oil: While coated in sticky oil, the boggle gains advantage on Strength (Athletics) checks made to grapple and any ability check made to maintain a hold on another creature, a surface, or an object. The boggle can also climb difcult surfaces, including upside down on ceilings, without needing to make an ability check."
+						"Sticky Oil: While coated in sticky oil, the boggle gains advantage on Strength (Athletics) checks made to grapple and any ability check made to maintain a hold on another creature, a surface, or an object. The boggle can also climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
 					]
 				},
 				{
@@ -3314,7 +3314,7 @@
 				{
 					"name": "Oil Puddle",
 					"entries": [
-						"The boggle creates a puddle of oil that is either slippery or sticky (boggle's choice). The puddle is l inch deep and covers the ground in the boggle's space. The puddle is difcult terrain for all creatures except boggles and lasts for l hour.",
+						"The boggle creates a puddle of oil that is either slippery or sticky (boggle's choice). The puddle is l inch deep and covers the ground in the boggle's space. The puddle is difficult terrain for all creatures except boggles and lasts for l hour.",
 						"If the oil is slippery, any creature that enters the puddle's area or starts its turn there must succeed on a {@dc 11} Dexterity saving throw or fall {@condition prone}.",
 						"If the oil is sticky, any creature that enters the puddle's area or starts its turn there must succeed on a {@dc 11} Strength saving throw or be {@condition restrained}. On its turn, a creature can use an action to try to extricate itself from the sticky puddle, ending the effect and moving into the nearest safe unoccupied space with a successful {@dc 11} Strength check."
 					]
@@ -3441,7 +3441,7 @@
 				{
 					"name": "Piercing Claw",
 					"entries": [
-						"{@atk mw} + {@hit 7} to hit, reach 15 ft., one target. Hit : 17 ({@damage 3d8 + 4}) piercing damage. If the target is a creature, the boneclaw can pull the target up to 10 feet toward itself, and the target is {@condition grappled} (escape {@dc 14}). The boneclaw has two claws. While a claw grapples a target, the claw can {@action attack} only that target."
+						"{@atk mw} {@hit 7} to hit, reach 15 ft., one target. Hit : 17 ({@damage 3d8 + 4}) piercing damage. If the target is a creature, the boneclaw can pull the target up to 10 feet toward itself, and the target is {@condition grappled} (escape {@dc 14}). The boneclaw has two claws. While a claw grapples a target, the claw can {@action attack} only that target."
 					]
 				}
 			],
@@ -4793,7 +4793,7 @@
 				{
 					"name": "Spider Climb",
 					"entries": [
-						"The cave fsher can climb difcult surfaces, including upside down on ceilings, without needing to make an ability check."
+						"The cave fsher can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
 					]
 				}
 			],
@@ -4917,7 +4917,7 @@
 				{
 					"name": "Spider Climb",
 					"entries": [
-						"The cave fsher can climb difcult surfaces, including upside down on ceilings, without needing to make an ability check."
+						"The cave fsher can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
 					]
 				}
 			],
@@ -5354,7 +5354,7 @@
 				{
 					"name": "Spider Climb",
 					"entries": [
-						"The choldrith can climb difcult surfaces, including upside down on ceilings, without needing to make an ability check."
+						"The choldrith can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
 					]
 				},
 				{
@@ -5577,7 +5577,7 @@
 				{
 					"name": "Spider Climb",
 					"entries": [
-						"The choldrith can climb difcult surfaces, including upside down on ceilings, without needing to make an ability check."
+						"The choldrith can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
 					]
 				},
 				{
@@ -5731,13 +5731,13 @@
 				{
 					"name": "Cave Strider",
 					"entries": [
-						"Moving through nonmagical difcult cavern or underground terrain doesn't cost the choker extra movement."
+						"Moving through nonmagical difficult cavern or underground terrain doesn't cost the choker extra movement."
 					]
 				},
 				{
 					"name": "Spider Climb",
 					"entries": [
-						"The choker can climb difcult surfaces, including upside down on ceilings, without needing to make an ability check."
+						"The choker can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
 					]
 				},
 				{
@@ -6050,7 +6050,7 @@
 					]
 				},
 				{
-					"name": "Acid Spray (Recharges 5-6)",
+					"name": "Acid Spray {@recharge 5}",
 					"entries": [
 						"The clockroach spits a line of acid that is 15 feet long and 5 feet wide. Each creature in that line must succeed on a {@dc 12} Dexterity saving throw, taking 10 ({@damage 3d6}) acid damage on a failed save, or half as much on a successful one."
 					]
@@ -6286,7 +6286,7 @@
 					]
 				},
 				{
-					"name": "Sonic Shriek (Recharges 5-6)",
+					"name": "Sonic Shriek {@recharge 5}",
 					"entries": [
 						"The pulverizer emits intense sound in a cone 15 feet long. Each creature in that area must succeed on a {@dc 13} Constitution saving throw, taking 13 ({@damage 3d8}) thunder damage on a failed save, or half as much on a successful one."
 					]
@@ -6557,7 +6557,7 @@
 					]
 				},
 				{
-					"name": "Darkness (Recharges 6)",
+					"name": "Darkness {@recharge 6}",
 					"entries": [
 						"The darkling elder casts darkness without any components. Wisdom is its spellcasting ability"
 					]
@@ -6730,7 +6730,7 @@
 					]
 				},
 				{
-					"name": "Darkness (Recharges 5-6)",
+					"name": "Darkness {@recharge 5}",
 					"entries": [
 						"The darkling elder casts darkness without any components. Wisdom is its spellcasting ability."
 					]
@@ -6850,7 +6850,7 @@
 					]
 				},
 				{
-					"name": "Cunning Insight (Recharges 5-6)",
+					"name": "Cunning Insight {@recharge 5}",
 					"entries": [
 						"As a bonus action, the darkling elder chooses a target it can see within 30 feet of it. The darkling elder and up to 3 creatures of its choice have advantage on ability checks, attack rolls, and saving throws made against the target. In addition, the target has disadvantage on ability checks and {@action attack} rolls made against the darkling elder. These effects last until the start of the darkling elder's next turn."
 					]
@@ -6894,7 +6894,7 @@
 					]
 				},
 				{
-					"name": "Darkness (Recharges 5-6)",
+					"name": "Darkness {@recharge 5}",
 					"entries": [
 						"The darkling elder casts darkness without any components. Wisdom is its spellcasting ability."
 					]
@@ -8361,7 +8361,7 @@
 				{
 					"name": "Spider Climb",
 					"entries": [
-						"The brachavyrm can climb difcult surfaces, including upside down on ceilings, without needing to make an ability check."
+						"The brachavyrm can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
 					]
 				}
 			],
@@ -9351,7 +9351,7 @@
 				{
 					"name": "Spider Climb",
 					"entries": [
-						"Lolth can climb difcult surfaces, including upside down on ceilings, without needing to make an ability check."
+						"Lolth can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
 					]
 				},
 				{
@@ -10241,7 +10241,7 @@
 					]
 				},
 				{
-					"name": "Teleport (Recharges 5-6)",
+					"name": "Teleport {@recharge 5}",
 					"entries": [
 						"The Aspect of Graz'zt magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see."
 					]
@@ -10430,7 +10430,7 @@
 				{
 					"name": "Spider Climb",
 					"entries": [
-						"The Aspect of Juiblex can climb difcult surfaces, including upside down on ceilings, without needing to make an ability check."
+						"The Aspect of Juiblex can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
 					]
 				}
 			],
@@ -10450,7 +10450,7 @@
 				{
 					"name": "Eject Slime {@recharge 5}",
 					"entries": [
-						"The Aspect of Juiblex spews out a corrosive slime, targeting one creature that it can see within 60 feet of it. The target must make a {@dc 15} Dexterity saving throw. On a failure, the target takes 27 ({@damage 5d10}) acid damage. Unless the target avoids taking any of this damage, any nonmagical metal armor worn by the target takes a permanent -1 penalty to the AC it offers, and any nonmagical metal weapon it is carrying or wearing takes a permanent - 1 penalty to damage rolls. The penalty worsens each time a target is subjected to this effect. If the penalty on an object drops to -5, the object is destroyed."
+						"The Aspect of Juiblex spews out a corrosive slime, targeting one creature that it can see within 60 feet of it. The target must make a {@dc 15} Dexterity saving throw. On a failure, the target takes 27 ({@damage 5d10}) acid damage. Unless the target avoids taking any of this damage, any nonmagical metal armor worn by the target takes a permanent -1 penalty to the AC it offers, and any nonmagical metal weapon it is carrying or wearing takes a permanent -1 penalty to damage rolls. The penalty worsens each time a target is subjected to this effect. If the penalty on an object drops to -5, the object is destroyed."
 					]
 				}
 			],
@@ -10470,7 +10470,7 @@
 				{
 					"name": "Corrupting Touch (Costs 2 Actions)",
 					"entries": [
-						"{@atk mw} + {@hit 8} to hit, reach 10 ft., one creature. {@h}14 ({@damage 3d6 + 4}) poison damage, and the target is slimed. Until the slime is scraped off with an action, the target is {@condition poisoned}, and any creature, other than an ooze, is {@condition poisoned} while within 10 feet of the target."
+						"{@atk mw} {@hit 8} to hit, reach 10 ft., one creature. {@h}14 ({@damage 3d6 + 4}) poison damage, and the target is slimed. Until the slime is scraped off with an action, the target is {@condition poisoned}, and any creature, other than an ooze, is {@condition poisoned} while within 10 feet of the target."
 					]
 				}
 			],
@@ -10825,7 +10825,7 @@
 				{
 					"name": "Spider Climb",
 					"entries": [
-						"The Aspect of Lolth can climb difcult surfaces, including upside down on ceilings, without needing to make an ability check."
+						"The Aspect of Lolth can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
 					]
 				},
 				{
@@ -14216,7 +14216,7 @@
 			],
 			"reaction": [
 				{
-					"name": "Vexing Escape (Recharge 5-6)",
+					"name": "Vexing Escape {@recharge 5}",
 					"entries": [
 						"When Dispater takes damage, he reduces that damage to 0 and teleports up to 120 feet to an unoccupied space it can see."
 					]
@@ -15108,7 +15108,7 @@
 					]
 				},
 				{
-					"name": "Teleport (Recharges 5-6)",
+					"name": "Teleport {@recharge 5}",
 					"entries": [
 						"The Aspect of Bael magically teleports, along with any equipment it is wearing and carrying, up to 60 feet to an unoccupied space it can see."
 					]
@@ -15307,7 +15307,7 @@
 					]
 				},
 				{
-					"name": "Teleport (Recharges 5-6)",
+					"name": "Teleport {@recharge 5}",
 					"entries": [
 						"The Aspect of Bel magically teleports, along with any equipment it is wearing and carrying, up to 60 feet to an unoccupied space it can see."
 					]
@@ -15557,7 +15557,7 @@
 					]
 				},
 				{
-					"name": "Teleport (Recharges 5-6)",
+					"name": "Teleport {@recharge 5}",
 					"entries": [
 						"The Aspect of Dispater magically teleports, along with any equipment it is wearing and carrying, up to 60 feet to an unoccupied space it can see."
 					]
@@ -15784,7 +15784,7 @@
 					]
 				},
 				{
-					"name": "Teleport (Recharges 5-6)",
+					"name": "Teleport {@recharge 5}",
 					"entries": [
 						"The Aspect of Geryon magically teleports, along with any equipment it is wearing and carrying, up to 60 feet to an unoccupied space it can see."
 					]
@@ -16071,7 +16071,7 @@
 					]
 				},
 				{
-					"name": "Teleport (Recharges 5-6)",
+					"name": "Teleport {@recharge 5}",
 					"entries": [
 						"The Aspect of Mephistopheles magically teleports, along with any equipment it is wearing and carrying, up to 60 feet to an unoccupied space it can see."
 					]
@@ -16280,7 +16280,7 @@
 					]
 				},
 				{
-					"name": "Teleport (Recharges 5-6)",
+					"name": "Teleport {@recharge 5}",
 					"entries": [
 						"The Aspect of Moloch magically teleports, along with any equipment it is wearing and carrying, up to 60 feet to an unoccupied space it can see."
 					]
@@ -16710,17 +16710,17 @@
 				{
 					"name": "Javelin",
 					"entries": [
-						"{@atk mw,rw} + {@hit 10} to hit, range 30/120 ft., one target. {@h}12 ({@damage 2d6 + 5}) piercing damage plus 9 ({@damage 2d8}) fire damage."
+						"{@atk mw,rw} {@hit 10} to hit, range 30/120 ft., one target. {@h}12 ({@damage 2d6 + 5}) piercing damage plus 9 ({@damage 2d8}) fire damage."
 					]
 				},
 				{
-					"name": "Horrid Touch (Recharge 5-6)",
+					"name": "Horrid Touch {@recharge 5}",
 					"entries": [
-						"{@atk mw} + {@hit 10} to hit, reach 10 ft., one target. {@h}22 ({@damage 4d10}) necrotic damage, and the target is {@condition poisoned} for 1 minute. While {@condition poisoned} in this way, the target is also {@condition blinded} and {@condition deafened}. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+						"{@atk mw} {@hit 10} to hit, reach 10 ft., one target. {@h}22 ({@damage 4d10}) necrotic damage, and the target is {@condition poisoned} for 1 minute. While {@condition poisoned} in this way, the target is also {@condition blinded} and {@condition deafened}. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
 					]
 				},
 				{
-					"name": "Teleport (Recharges 5-6)",
+					"name": "Teleport {@recharge 5}",
 					"entries": [
 						"The Aspect of Zariel magically teleports, along with any equipment it is wearing and carrying, up to 60 feet to an unoccupied space it can see."
 					]
@@ -18619,7 +18619,7 @@
 				{
 					"name": "Ice Walk",
 					"entries": [
-						"The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difcult terrain composed of ice or snow doesn't cost it extra movement."
+						"The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra movement."
 					]
 				}
 			],
@@ -18988,7 +18988,7 @@
 				{
 					"name": "Spider Climb",
 					"entries": [
-						"The blackspawn stalker can climb difcult surfaces, including upside down on ceilings, without needing to make an ability check."
+						"The blackspawn stalker can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
 					]
 				},
 				{
@@ -19762,7 +19762,7 @@
 					]
 				},
 				{
-					"name": "Belch Fire (Recharges 4-6)",
+					"name": "Belch Fire {@recharge 4}",
 					"entries": [
 						"{@atk rw} {@hit 9} to hit, range 30/60 ft., one target. {@h}42 ({@damage 12d6}) fire damage. All other creatures within 5 feet of the target must make a {@dc 15} Dexterity saving throw, taking 21 ({@damage 6d6}) fire damage on a failed save, or half as much on a successful one."
 					]
@@ -19850,7 +19850,7 @@
 				{
 					"name": "Ice Walk",
 					"entries": [
-						"The whitespawn iceskidder can move across and climb icy surfaces with out needing to make an ability check. Additionally, difcult terrain composed of ice or snow doesn't cost it extra moment."
+						"The whitespawn iceskidder can move across and climb icy surfaces with out needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment."
 					]
 				},
 				{
@@ -21479,7 +21479,7 @@
 				{
 					"name": "Tail",
 					"entries": [
-						"{@atk mw} + {@hit 11} to hit, reach 15 ft., one target. {@h}12 ({@damage 1d10 + 7}) bludgeoning damage plus 4 ({@damage 1d8}) acid damage."
+						"{@atk mw} {@hit 11} to hit, reach 15 ft., one target. {@h}12 ({@damage 1d10 + 7}) bludgeoning damage plus 4 ({@damage 1d8}) acid damage."
 					]
 				},
 				{
@@ -21644,7 +21644,7 @@
 				{
 					"name": "Fiery Talons",
 					"entries": [
-						"{@atk mw} + {@hit 11} to hit, reach 15 ft., one target. {@h}16 ({@damage 2d8 + 7}) fire damage."
+						"{@atk mw} {@hit 11} to hit, reach 15 ft., one target. {@h}16 ({@damage 2d8 + 7}) fire damage."
 					]
 				}
 			],
@@ -21935,7 +21935,7 @@
 				{
 					"name": "Ground-Shaking Movement",
 					"entries": [
-						"As a bonus action after moving at least 10 feet on the ground, the zaratan can send a shock wave through the ground in a 60-foot-radius circle centered on itself. That area becomes difcult terrain for 1 minute. Each creature on the ground within the area that is concentrating must succeed on a {@dc 19} Constitution saving throw or the creature's concentration is broken."
+						"As a bonus action after moving at least 10 feet on the ground, the zaratan can send a shock wave through the ground in a 60-foot-radius circle centered on itself. That area becomes difficult terrain for 1 minute. Each creature on the ground within the area that is concentrating must succeed on a {@dc 19} Constitution saving throw or the creature's concentration is broken."
 					]
 				},
 				{
@@ -24344,7 +24344,7 @@
 					]
 				},
 				{
-					"name": "Scintillating Shell (Recharges 6)",
+					"name": "Scintillating Shell {@recharge 6}",
 					"entries": [
 						"The flail snail's shell emits dazzling, colored light until the end of the flail snail's next turn. During this time, the shell sheds bright light in a 40-foot radius and dim light for an additional 40 feet, and creatures that can see the flail snail have disadvantage on {@action attack} rolls against it. In addition, any creature within the bright light and able to see the flail snail when this power is activated must succeed on a {@dc 18} Wisdom saving throw or be {@condition stunned} until the light ends."
 					]
@@ -24706,7 +24706,7 @@
 					]
 				},
 				{
-					"name": "Cunning Insight (Recharges 5-6)",
+					"name": "Cunning Insight {@recharge 5}",
 					"entries": [
 						"As a bonus action, the cloud giant chooses a target it can see within 30 feet of it. The cloud giant and up to 3 creatures of its choice have advantage on ability checks, attack rolls, and saving throws made against the target. In addition, the target has disadvantage on ability checks and {@action attack} rolls made against the cloud giant. These effects last until the start of the cloud giant's next turn."
 					]
@@ -25607,7 +25607,7 @@
 					]
 				},
 				{
-					"name": "Cleaving Swing (Recharges 5-6)",
+					"name": "Cleaving Swing {@recharge 5}",
 					"entries": [
 						"The giant swings its greataxe, and each creature within 10 feet of it must  succeed on a {@dc 19} Dexterity saving throw. The creature takes 26 ({@damage 3d12 + 7}) slashing damage on a failed save, or half as much damage on a successful one."
 					]
@@ -29089,7 +29089,7 @@
 					]
 				},
 				{
-					"name": "Ego Whip (Recharges 5-6)",
+					"name": "Ego Whip {@recharge 5}",
 					"entries": [
 						"One creature the githyanki can see within 60 feet of it must make a {@dc 15} Intelligence saving throw. On a failed save, the creature takes 13 ({@damage 3d8}) psychic damage, and it is flled with self-doubt, leaving it able to use its action on its next turn only to take the Dodge, Disengage, or Hide action. On a successful saving throw, the target takes half as much damage."
 					]
@@ -29244,7 +29244,7 @@
 					]
 				},
 				{
-					"name": "Rolling Flame (Recharges 5-6)",
+					"name": "Rolling Flame {@recharge 5}",
 					"entries": [
 						"The githyanki creates fire in a 20-foot-by-20-foot cube within 5 feet of it. The fire lasts until the githyanki's concentration is broken (as if concentrating on a spell). Any creature in that area when it uses this ability and any creature that ends its turn there takes 5 ({@damage 1d10}) fire damage."
 					]
@@ -29511,7 +29511,7 @@
 					]
 				},
 				{
-					"name": "Lightning Leap (Recharges 5-6)",
+					"name": "Lightning Leap {@recharge 5}",
 					"entries": [
 						"The githzerai lets loose a line of lightning that is 60 feet long and 5 feet wide. Each creature in the line must make a {@dc 16} Dexterity saving throw, taking 28 ({@damage 8d6}) lightning damage on a failed save, or half as much damage on a successful one. The githzerai then teleports to an unoccupied space touched by opposite end of the line."
 					]
@@ -31919,7 +31919,7 @@
 				{
 					"name": "Ice Walk",
 					"entries": [
-						"The hag can move across and climb icy surfaces without needing to make an ability check. Additionally, difcult terrain composed of ice or snow doesn't cost her extra moment."
+						"The hag can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost her extra moment."
 					]
 				}
 			],
@@ -32067,7 +32067,7 @@
 				{
 					"name": "Spider Climb",
 					"entries": [
-						"The hag can climb difcult surfaces, including upside down on ceilings, without needing to make an ability check."
+						"The hag can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
 					]
 				}
 			],
@@ -32265,7 +32265,7 @@
 				{
 					"name": "Spider Climb",
 					"entries": [
-						"The hag can climb difcult surfaces, including upside down on ceilings, without needing to make an ability check."
+						"The hag can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
 					]
 				}
 			],
@@ -33536,7 +33536,7 @@
 					]
 				},
 				{
-					"name": "Mind-Breaking Howl (Recharge 5-6)",
+					"name": "Mind-Breaking Howl {@recharge 5}",
 					"entries": [
 						"The howler emits a keening howl in a 60-foot cone. Each creature in that area that isn't {@condition deafened} must succeed on a {@dc 18} Wisdom saving throw or be {@condition frightened} until the end of the howler's next turn. While a creature is {@condition frightened} in this way, its speed is halved, and it is {@condition incapacitated}. A target that successfully saves is immune to the Mind-Breaking Howl of all howlers for the next 24 hours."
 					]
@@ -37893,7 +37893,7 @@
 					]
 				},
 				{
-					"name": "Cunning Insight (Recharges 5-6)",
+					"name": "Cunning Insight {@recharge 5}",
 					"entries": [
 						"As a bonus action, the ulitharid chooses a target it can see within 30 feet of it. The ulitharid and up to 3 creatures of its choice have advantage on ability checks, attack rolls, and saving throws made against the target. In addition, the target has disadvantage on ability checks and {@action attack} rolls made against the ulitharid. These effects last until the start of the ulitharid's next turn."
 					]
@@ -38647,7 +38647,7 @@
 				{
 					"name": "Spider Climb",
 					"entries": [
-						"The great old master can climb difcult surfaces, including upside down on ceilings, without needing to make an ability check."
+						"The great old master can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
 					]
 				}
 			],
@@ -38671,7 +38671,7 @@
 					]
 				},
 				{
-					"name": "Release Hatchlings (Recharges 5-6)",
+					"name": "Release Hatchlings {@recharge 5}",
 					"entries": [
 						"The great old master releases out {@dice 2d4} neogi hatchlings. The neogi hatchlings appear in unoccupied spaces within 30 feet of the neogi and acts as its allies. The neogi hatchlings act right after the neogi on the same initiative count and fght until they're destroyed. The great old master can only release up to a total of 40 neogi hatchlings (the total is shared with its Pop Hatchlings reaction)."
 					]
@@ -38679,7 +38679,7 @@
 			],
 			"reaction": [
 				{
-					"name": "Pop Hatchlings (Recharges 5-6)",
+					"name": "Pop Hatchlings {@recharge 5}",
 					"entries": [
 						"In response to taking bludgeoning, piercing, or slashing damage, the great old master can release {@dice 1d4} neogi hatchlings. The neogi hatchlings appear in unoccupied spaces within 5 feet of the neogi and acts as its allies. The neogi hatchlings act right after the neogi on the same initiative count and fght until they're destroyed. The great old master can only release up to a total of 40 neogi hatchlings (the total is shared with its Release Hatchlings action)."
 					]
@@ -38834,7 +38834,7 @@
 				{
 					"name": "Spider Climb",
 					"entries": [
-						"The neogi can climb difcult surfaces, including upside down on ceilings, without needing to make an ability check."
+						"The neogi can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
 					]
 				}
 			],
@@ -39801,7 +39801,7 @@
 					]
 				},
 				{
-					"name": "Cleaving Swing (Recharges 5-6)",
+					"name": "Cleaving Swing {@recharge 5}",
 					"entries": [
 						"The ogre swings its greatclub, and each creature within 5 feet of it must succeed on a {@dc 16} Dexterity saving throw. The target takes 14 ({@damage 2d8 + 5}) bludgeoning damage on a failed save, or half as much damage on a successful one."
 					]
@@ -40019,7 +40019,7 @@
 					]
 				},
 				{
-					"name": "Cleaving Swing (Recharges 5-6)",
+					"name": "Cleaving Swing {@recharge 5}",
 					"entries": [
 						"The ogre swings its spiked greatclub, and each creature within 5 feet of it must succeed on a {@dc 18} Dexterity saving throw. The target takes 15 ({@damage 2d8 + 6}) bludgeoning damage plus 4 ({@damage 1d8}) piercing damage on a failed save, or half as much damage on a successful one."
 					]
@@ -40863,7 +40863,7 @@
 					]
 				},
 				{
-					"name": "Battle Cry (Recharges 6)",
+					"name": "Battle Cry {@recharge 6}",
 					"entries": [
 						"Each creature of the orc's choice that is within 30 feet of it, can hear it, and not already affected by Battle Cry gain advantage on {@action attack} rolls until the start of the orc's next turn. The orc can then make one {@action attack} as a bonus action."
 					]
@@ -42798,7 +42798,7 @@
 					]
 				},
 				{
-					"name": "Lightning Discharge (Recharges 4-6)",
+					"name": "Lightning Discharge {@recharge 4}",
 					"entries": [
 						"The sea spawn discharges electricity that shocks targets around it. Each creature within 10 feet of the sea spawn must succeed on a {@dc 13} Constitution saving throw. On a failed save, the target takes 27 ({@damage 6d8}) lightning damage and is {@condition stunned} until the end of its next turn. On a successful save, the target takes half as much damage and isn't {@condition stunned}."
 					]
@@ -43701,7 +43701,7 @@
 					]
 				},
 				{
-					"name": "Shadow Cage (Recharges 6)",
+					"name": "Shadow Cage {@recharge 6}",
 					"entries": [
 						"Magical darkness spreads from a point within 120 feet of the painbearer to fll a 10-foot radius sphere that lasts until the painbearer's concentration is broken, up to 1 minute (as if concentrating on a spell). The darkness spreads around corners. A creature with darkvision can't see through this darkness. Nonmagical light, as well as light created by spells of 3rd level or lower, can't illuminate the area. Each creature in that area must make a {@dc 14} Wisdom saving throw or take 22 ({@damage 4d10}) necrotic damage and be {@condition restrained} until the effect ends. Any creature within the area, other than a shadar-kai, takes 11 ({@damage 2d10}) necrotic damage at the start of each of the painbearer's turns. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
 					]
@@ -44108,7 +44108,7 @@
 				{
 					"name": "Spider Climb",
 					"entries": [
-						"The pudding can climb difcult surfaces, including upside down on ceilings, without needing to make an ability check."
+						"The pudding can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
 					]
 				},
 				{
@@ -44518,7 +44518,7 @@
 			"cr": "10",
 			"trait": [
 				{
-					"name": "Great Hunter's Inspiration (Recharges 5-6)",
+					"name": "Great Hunter's Inspiration {@recharge 5}",
 					"entries": [
 						"When the tlincalli hits an enemy with a melee weapon {@action attack} and deals damage to it, it can use a bonus action to target all allies it can see within 30 feet of it. The target gains advantage to its next melee weapon {@action attack} made until the start of the tlincalli's next turn."
 					]
@@ -45406,7 +45406,7 @@
 				{
 					"name": "Spider Climb",
 					"entries": [
-						"The trapper can climb difcult surfaces, including upside down on ceilings, without needing to make an ability check."
+						"The trapper can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
 					]
 				}
 			],
@@ -45503,7 +45503,7 @@
 				{
 					"name": "Spider Climb",
 					"entries": [
-						"The trapper can climb difcult surfaces, including upside down on ceilings, without needing to make an ability check."
+						"The trapper can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
 					]
 				}
 			],
@@ -45755,7 +45755,7 @@
 					]
 				},
 				{
-					"name": "Cleaving Swing (Recharges 5-6)",
+					"name": "Cleaving Swing {@recharge 5}",
 					"entries": [
 						"The troll swings its greatsword, and each creature within 10 feet of it must succeed on a {@dc 18} Dexterity saving throw. The target takes 19 ({@damage 2d12 + 6}) slashing damage on a failed saving save, or half as much damage on a successful one."
 					]
@@ -51005,7 +51005,7 @@
 				{
 					"name": "Spider Climb",
 					"entries": [
-						"The zombie can climb difcult surfaces, including upside down on ceilings, without needing to make an ability check."
+						"The zombie can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
 					]
 				}
 			],
@@ -55675,7 +55675,7 @@
 					]
 				},
 				{
-					"name": "Dirge of Death (Recharges 5-6)",
+					"name": "Dirge of Death {@recharge 5}",
 					"entries": [
 						"The dread dirgesinger sings a horrid, mournful lament. This dirge has no effect on constructs and undead. All other creatures within 60 feet of it that can hear it must make a {@dc 17} Constitution saving throw. On a failure, a creature drops to 0 hit points. On a success, a creature takes 21 ({@damage 6d6}) psychic damage."
 					]
@@ -57015,7 +57015,7 @@
 					]
 				},
 				{
-					"name": "Cunning Insight (Recharges 5-6)",
+					"name": "Cunning Insight {@recharge 5}",
 					"entries": [
 						"As a bonus action, the mastermind chooses a target it can see within 30 feet of it. The mastermind and up to 3 creatures of its choice have advantage on ability checks, attack rolls, and saving throws made against the target. In addition, the target has disadvantage on ability checks and {@action attack} rolls made against the mastermind. These effects last until the start of the mastermind's next turn."
 					]
@@ -59076,7 +59076,7 @@
 					]
 				},
 				{
-					"name": "Insanity Gaze (Recharges 5-6)",
+					"name": "Insanity Gaze {@recharge 5}",
 					"entries": [
 						"The cult priest fxes its gaze on one creature it can see within 30 feet of it. The target must succeed on {@dc 12} Wisdom saving throw or suffer the effect of the confusion spell without making a saving throw. The effect lasts until the start of the cult priest's next turn."
 					]
@@ -59250,7 +59250,7 @@
 					]
 				},
 				{
-					"name": "Maddening Gaze (Recharges 4-6)",
+					"name": "Maddening Gaze {@recharge 4}",
 					"entries": [
 						"The cult high priest fxes its gaze on one creature it can see within 30 feet of it. The target must succeed on {@dc 14} Wisdom saving throw. On a failed saving throw, roll {@dice 1d6}. On a roll of 1-3, the target suffers the effect of the confusion spell without making a saving throw. On a roll of 4-6, the target is {@condition stunned}. Either effect lasts until the start of the cult priest's next turn."
 					]
