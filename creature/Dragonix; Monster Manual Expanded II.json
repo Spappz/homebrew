@@ -1214,14 +1214,14 @@
 				"blinded",
 				"incapacitated"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/banderhobbshadowassassin.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/banderhobbbogeyman.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/banderhobbshadowassassin.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/banderhobbbogeyman.webp"
 						}
 					}
 				]
@@ -1354,7 +1354,19 @@
 				"grappled",
 				"restrained",
 				"blinded"
-			]
+			],
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/banderhobbbogeyman.png",
+			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/banderhobbbogeyman.webp"
+						}
+					}
+				]
+			}
 		},
 		{
 			"name": "Bargda",
@@ -4318,14 +4330,14 @@
 				"grappled",
 				"stunned"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/direbunyip.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/bunyip.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/direbunyip.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/bunyip.webp"
 						}
 					}
 				]
@@ -6492,14 +6504,14 @@
 				"blinded",
 				"incapacitated"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/darklingelderassassin.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/darklingcreeper.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/darklingelderassassin.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/darklingcreeper.webp"
 						}
 					}
 				]
@@ -6670,14 +6682,14 @@
 			"conditionInflictSpell": [
 				"frightened"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/darklingelderhexblade.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/darklingcreeper.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/darklingelderhexblade.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/darklingcreeper.webp"
 						}
 					}
 				]
@@ -6831,14 +6843,14 @@
 				"blinded",
 				"incapacitated"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/darklingeldermastermind.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/darklingcreeper.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/darklingeldermastermind.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/darklingcreeper.webp"
 						}
 					}
 				]
@@ -6968,14 +6980,14 @@
 				"blinded",
 				"incapacitated"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/darklingskulker.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/darklingcreeper.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/darklingskulker.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/darklingcreeper.webp"
 						}
 					}
 				]
@@ -7490,14 +7502,14 @@
 				"stunned",
 				"incapacitated"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/deepscionassassin.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/deepscionthug.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/deepscionassassin.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/deepscionthug.webp"
 						}
 					}
 				]
@@ -7837,14 +7849,14 @@
 				"invisible",
 				"paralyzed"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/deepscionwarlock.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/deepscionthug.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/deepscionwarlock.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/deepscionthug.webp"
 						}
 					}
 				]
@@ -11359,13 +11371,13 @@
 				{
 					"name": "Infestation Spores (1/ Day)",
 					"entries": [
-						"The Aspect of Zuggtmoy releases spores that burst out in a cloud that flls a 20-foot-radius sphere centered on itself, and it lingers for 1 minute. Any flesh-and-blood creature in the cloud when it appears, or that enters it later, must make a {@dc 14} Constitution saving throw. On a successful save, the creature can't be infected by these spores for 24 hours. On a failed save, the creature is infected with a disease called the spores of Zuggtmoy. While infected in this way, the creature can't be reinfected, and it must repeat the saving throw at the end of every 24 hours, ending the infection on a success. On a failure, the infected creature's body is slowly taken over by fungal growth, and after three such failed saves, the creature dies and is reanimated as a spore servant if it's a type of creature that can be (see the \"Myconids\" entry in the Monster Manual)."
+						"The Aspect of Zuggtmoy releases spores that burst out in a cloud that fills a 20-foot-radius sphere centered on itself, and it lingers for 1 minute. Any flesh-and-blood creature in the cloud when it appears, or that enters it later, must make a {@dc 14} Constitution saving throw. On a successful save, the creature can't be infected by these spores for 24 hours. On a failed save, the creature is infected with a disease called the spores of Zuggtmoy. While infected in this way, the creature can't be reinfected, and it must repeat the saving throw at the end of every 24 hours, ending the infection on a success. On a failure, the infected creature's body is slowly taken over by fungal growth, and after three such failed saves, the creature dies and is reanimated as a spore servant if it's a type of creature that can be (see the \"Myconids\" entry in the Monster Manual)."
 					]
 				},
 				{
 					"name": "Mind Control Spores {@recharge}",
 					"entries": [
-						"The Aspect of Zuggtmoy releases spores that burst out in a cloud that flls a 20-foot-radius sphere centered on itself, and it lingers for 1 minute. Humanoids and beasts in the cloud when it appears, or that enter it later, must make a {@dc 14} Wisdom saving throw. On a successful save, the creature can't be infected by these spores for 24 hours. On a failed save, the creature is infected with a disease called the influence of Zuggtmoy for 24 hours. While infected in this way, the creature is {@condition charmed} by the Aspect of Zuggtymoy and can't be reinfected by these spores."
+						"The Aspect of Zuggtmoy releases spores that burst out in a cloud that fills a 20-foot-radius sphere centered on itself, and it lingers for 1 minute. Humanoids and beasts in the cloud when it appears, or that enter it later, must make a {@dc 14} Wisdom saving throw. On a successful save, the creature can't be infected by these spores for 24 hours. On a failed save, the creature is infected with a disease called the influence of Zuggtmoy for 24 hours. While infected in this way, the creature is {@condition charmed} by the Aspect of Zuggtymoy and can't be reinfected by these spores."
 					]
 				}
 			],
@@ -11548,7 +11560,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/derroberserker.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/derrothug.webp"
 						}
 					}
 				]
@@ -11677,7 +11689,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/derrohookguard.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/derrothug.webp"
 						}
 					}
 				]
@@ -11997,7 +12009,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/derrotaskmaster.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/derrothug.webp"
 						}
 					}
 				]
@@ -17100,14 +17112,14 @@
 			"conditionInflict": [
 				"frightened"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/direcorbyalpha.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/direcorby.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/direcorbyalpha.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/direcorby.webp"
 						}
 					}
 				]
@@ -17428,14 +17440,14 @@
 			"conditionInflictSpell": [
 				"stunned"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/draeglothwarcaster.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/draeglothabomination.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/draeglothwarcaster.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/draeglothabomination.webp"
 						}
 					}
 				]
@@ -17877,14 +17889,14 @@
 			"conditionInflict": [
 				"restrained"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/youngdracolisk.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/adultdracolisk.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/youngdracolisk.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/adultdracolisk.webp"
 						}
 					}
 				]
@@ -18592,14 +18604,14 @@
 				"prone",
 				"stunned"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/adultdragonne.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/youngdragonne.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/adultdragonne.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/youngdragonne.webp"
 						}
 					}
 				]
@@ -18860,14 +18872,14 @@
 				"poisoned",
 				"restrained"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/blackspawnstalker.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/blackspawncrawler.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/blackspawnstalker.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/blackspawncrawler.webp"
 						}
 					}
 				]
@@ -22425,7 +22437,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/drowarcaneknight.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/drowsoldier.webp"
 						}
 					}
 				]
@@ -22593,7 +22605,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/drowdarksniper.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/drowsoldier.webp"
 						}
 					}
 				]
@@ -22818,7 +22830,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/drowhousewizard.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/drowsoldier.webp"
 						}
 					}
 				]
@@ -22988,7 +23000,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/drowlolthssting.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/drowsoldier.webp"
 						}
 					}
 				]
@@ -23244,14 +23256,14 @@
 			"miscTags": [
 				"MW"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/ettinberserker.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/ettinvanguard.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/ettinberserker.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/ettinvanguard.webp"
 						}
 					}
 				]
@@ -23545,14 +23557,14 @@
 				"paralyzed",
 				"incapacitated"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/ettinwitchdoctor.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/ettinvanguard.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/ettinwitchdoctor.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/ettinvanguard.webp"
 						}
 					}
 				]
@@ -23719,14 +23731,14 @@
 			"miscTags": [
 				"MW"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/firenewtwarpriestofimix.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/firenewtzealot.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/firenewtwarpriestofimix.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/firenewtzealot.webp"
 						}
 					}
 				]
@@ -27048,7 +27060,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/goblinassassin.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/goblinking.webp"
 						}
 					}
 				]
@@ -27320,7 +27332,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/goblinsharpshooter.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/goblinking.webp"
 						}
 					}
 				]
@@ -27465,7 +27477,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/goblinsorcerer.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/goblinking.webp"
 						}
 					}
 				]
@@ -27602,7 +27614,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/goblinworgrider.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/goblinking.webp"
 						}
 					}
 				]
@@ -28028,14 +28040,14 @@
 				"grappled",
 				"stunned"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/girallonalpha.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/girallonberserker.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/girallonalpha.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/girallonberserker.webp"
 						}
 					}
 				]
@@ -28566,7 +28578,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/githyankipsiblade.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/githyankicaptain.webp"
 						}
 					}
 				]
@@ -28712,7 +28724,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/githyankipyromind.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/githyankicaptain.webp"
 						}
 					}
 				]
@@ -28978,7 +28990,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/githzerailightningfist.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/githzeraicenobite.webp"
 						}
 					}
 				]
@@ -29123,7 +29135,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/githzeraishadowmind.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/githzeraicenobite.webp"
 						}
 					}
 				]
@@ -30365,14 +30377,14 @@
 			"conditionInflict": [
 				"prone"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/younggrayrender.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/eldergrayrender.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/younggrayrender.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/eldergrayrender.webp"
 						}
 					}
 				]
@@ -31646,14 +31658,14 @@
 				"frightened",
 				"unconscious"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/blackhagelder.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/blackhag.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/blackhagelder.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/blackhag.webp"
 						}
 					}
 				]
@@ -33333,14 +33345,14 @@
 				"incapacitated",
 				"prone"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/koboldarcanetrickster.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/koboldarcher.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/koboldarcanetrickster.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/koboldarcher.webp"
 						}
 					}
 				]
@@ -33579,14 +33591,14 @@
 			"conditionInflict": [
 				"incapacitated"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/koboldchieftain.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/koboldarcher.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/koboldchieftain.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/koboldarcher.webp"
 						}
 					}
 				]
@@ -33750,14 +33762,14 @@
 			"conditionInflict": [
 				"incapacitated"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/koboldking.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/koboldarcher.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/koboldking.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/koboldarcher.webp"
 						}
 					}
 				]
@@ -33911,14 +33923,14 @@
 				"incapacitated",
 				"prone"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/koboldshaman.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/koboldarcher.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/koboldshaman.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/koboldarcher.webp"
 						}
 					}
 				]
@@ -34100,14 +34112,14 @@
 			"conditionInflictSpell": [
 				"invisible"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/koboldstingofkurtulmak.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/koboldarcher.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/koboldstingofkurtulmak.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/koboldarcher.webp"
 						}
 					}
 				]
@@ -34785,14 +34797,14 @@
 			"miscTags": [
 				"MW"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/leucrottafemale.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/leucrottafiend.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/leucrottafemale.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/leucrottafiend.webp"
 						}
 					}
 				]
@@ -35085,14 +35097,14 @@
 			"conditionInflict": [
 				"prone"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/leucrottamatriarch.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/leucrottafiend.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/leucrottamatriarch.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/leucrottafiend.webp"
 						}
 					}
 				]
@@ -35846,7 +35858,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/marutconcordant.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/marutguard.webp"
 						}
 					}
 				]
@@ -36530,14 +36542,14 @@
 			"conditionInflictSpell": [
 				"charmed"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/meenlockcorruptor.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/meenlockelder.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/meenlockcorruptor.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/meenlockelder.webp"
 						}
 					}
 				]
@@ -36829,7 +36841,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/meenlockstalker.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/meenlockelder.webp"
 						}
 					}
 				]
@@ -41035,14 +41047,14 @@
 				"paralyzed",
 				"unconscious"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/quicklingwarlockofthegloamingcourt.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/quicklingcaptain.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/quicklingwarlockofthegloamingcourt.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/quicklingcaptain.webp"
 						}
 					}
 				]
@@ -41305,14 +41317,14 @@
 				"stunned",
 				"prone"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/redcapgangboss.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/elderredcap.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/redcapgangboss.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/elderredcap.webp"
 						}
 					}
 				]
@@ -42467,7 +42479,7 @@
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/kithguard.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/kithlord.webp"
 						}
 					}
 				]
@@ -43306,25 +43318,16 @@
 				{
 					"name": "Whispers of Loss",
 					"entries": [
-						"As a bonus action, the Grim can whisper and hiss constantly, which can be heard loudly in the minds of creatures within 30 feet of it that can understand it. It can choose one from the following three effects:"
-					]
-				},
-				{
-					"name": "1",
-					"entries": [
-						"Future Sorrow. The Grim flls creatures' thoughts of images of loved ones dying horrible deaths. Each creature within range must succeed on a {@dc 16} Wisdom saving throw or take 16 ({@damage 3d10}) psychic damage and drop whatever it is holding, and become {@condition frightened} until the end of the Grim's next turn. While {@condition frightened} in this way, a creature must take the {@action Dash} action and move away from the Grim by the safest available route on each of its turns, unless there is nowhere to move, in which case it needn't take the Dash action. On a successful save, the creature takes half as much damage."
-					]
-				},
-				{
-					"name": "2",
-					"entries": [
-						"Great Emptiness. The Grim makes creatures reflect on their most terrible actions that have wracked them with guilt. Each creature within range must succeed on a {@dc 16} Charisma saving throw or be take 22 ({@damage 4d10}) psychic damage and be confused until the end of its next turn. The creature can't take reactions until the start of its next turn and rolls a {@dice d10} to determine what it does during that turn. On a 1 to 4, the creature does nothing. On a 5 to 7, the creature takes no action but uses all its movement to move in a random direction. On an 8 to 10, the creature makes one melee attack against a random creature, or it does nothing if no creature is within reach. On a successful save, the creature takes half as much damage."
-					]
-				},
-				{
-					"name": "3",
-					"entries": [
-						"Past Losses. The Grim makes creatures recall painful, tragic events and lost love ones that have haunted them. Each creature within range must succeed on a {@dc 16} Intelligence saving throw or take 11 ({@damage 2d10}) psychic damage and become {@condition stunned} until the end of the Grim's next turn. On a successful save, the creature takes half as much damage."
+						"As a bonus action, the Grim can whisper and hiss constantly, which can be heard loudly in the minds of creatures within 30 feet of it that can understand it. It can choose one from the following three effects:",
+						{
+							"type": "list",
+							"style": "list-decimal",
+							"items": [
+								"Future Sorrow. The Grim fills creatures' thoughts of images of loved ones dying horrible deaths. Each creature within range must succeed on a {@dc 16} Wisdom saving throw or take 16 ({@damage 3d10}) psychic damage and drop whatever it is holding, and become {@condition frightened} until the end of the Grim's next turn. While {@condition frightened} in this way, a creature must take the {@action Dash} action and move away from the Grim by the safest available route on each of its turns, unless there is nowhere to move, in which case it needn't take the Dash action. On a successful save, the creature takes half as much damage.",
+								"Great Emptiness. The Grim makes creatures reflect on their most terrible actions that have wracked them with guilt. Each creature within range must succeed on a {@dc 16} Charisma saving throw or be take 22 ({@damage 4d10}) psychic damage and be confused until the end of its next turn. The creature can't take reactions until the start of its next turn and rolls a {@dice d10} to determine what it does during that turn. On a 1 to 4, the creature does nothing. On a 5 to 7, the creature takes no action but uses all its movement to move in a random direction. On an 8 to 10, the creature makes one melee attack against a random creature, or it does nothing if no creature is within reach. On a successful save, the creature takes half as much damage.",
+								"Past Losses. The Grim makes creatures recall painful, tragic events and lost love ones that have haunted them. Each creature within range must succeed on a {@dc 16} Intelligence saving throw or take 11 ({@damage 2d10}) psychic damage and become {@condition stunned} until the end of the Grim's next turn. On a successful save, the creature takes half as much damage."
+							]
+						}
 					]
 				}
 			],
@@ -43811,14 +43814,14 @@
 				"deafened",
 				"prone"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/tlincallishaman.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/tlincallichieftain.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/tlincallishaman.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/tlincallichieftain.webp"
 						}
 					}
 				]
@@ -44578,14 +44581,14 @@
 				"blinded",
 				"grappled"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/youngtrapper.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/monstroustrapper.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/youngtrapper.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/monstroustrapper.webp"
 						}
 					}
 				]
@@ -45475,14 +45478,14 @@
 				"stunned",
 				"frightened"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/direvargouille.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/greatervargouille.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/direvargouille.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/greatervargouille.webp"
 						}
 					}
 				]
@@ -45845,14 +45848,14 @@
 				"RW",
 				"THW"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/vegepygmywarrior.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/vegepygmyshaman.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/vegepygmywarrior.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/vegepygmyshaman.webp"
 						}
 					}
 				]
@@ -46030,14 +46033,14 @@
 			"miscTags": [
 				"MW"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/verbeegchieftain.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/verbeeg.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/verbeegchieftain.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/verbeeg.webp"
 						}
 					}
 				]
@@ -46189,14 +46192,14 @@
 				"paralyzed",
 				"deafened"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/verbeegpriestofgrolantor.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/verbeeg.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/verbeegpriestofgrolantor.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/verbeeg.webp"
 						}
 					}
 				]
@@ -46337,14 +46340,14 @@
 				"MW",
 				"THW"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/verbeegshaman.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/verbeeg.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/verbeegshaman.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/verbeeg.webp"
 						}
 					}
 				]
@@ -46442,14 +46445,14 @@
 				"MW",
 				"THW"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/verbeegskirmisher.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/verbeeg.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/verbeegskirmisher.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/verbeeg.webp"
 						}
 					}
 				]
@@ -46822,14 +46825,14 @@
 			"miscTags": [
 				"MW"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/woodwoadgrovekeeper.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/woodwoadgrovewarden.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/woodwoadgrovekeeper.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/woodwoadgrovewarden.webp"
 						}
 					}
 				]
@@ -46971,14 +46974,14 @@
 			"miscTags": [
 				"MW"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/woodwoadsentinel.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/woodwoadgrovewarden.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/woodwoadsentinel.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/woodwoadgrovewarden.webp"
 						}
 					}
 				]
@@ -47274,14 +47277,14 @@
 			"conditionInflict": [
 				"incapacitated"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/xvartcutthroat.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/xvartspeaker.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/xvartcutthroat.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/xvartspeaker.webp"
 						}
 					}
 				]
@@ -47445,14 +47448,14 @@
 				"charmed",
 				"prone"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/xvartshamanofraxivort.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/xvartspeaker.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/xvartshamanofraxivort.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/xvartspeaker.webp"
 						}
 					}
 				]
@@ -47757,14 +47760,14 @@
 			"conditionInflictSpell": [
 				"charmed"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/xvartverminlord.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/xvartspeaker.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/xvartverminlord.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/xvartspeaker.webp"
 						}
 					}
 				]
@@ -50579,14 +50582,14 @@
 			"conditionInflict": [
 				"frightened"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/ancientdragonzombie.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/adultdragonzombie.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/ancientdragonzombie.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/adultdragonzombie.webp"
 						}
 					}
 				]
@@ -50701,14 +50704,14 @@
 				"RCH",
 				"AOE"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/juveniledragonzombie.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/youngdragonzombie.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/juveniledragonzombie.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/youngdragonzombie.webp"
 						}
 					}
 				]
@@ -53680,14 +53683,14 @@
 				"RW",
 				"RNG"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/barbarianchampion.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/barbarian.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/barbarianchampion.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/barbarian.webp"
 						}
 					}
 				]
@@ -57875,14 +57878,14 @@
 				"MW",
 				"THW"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/cultpriestofdemogorgon.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/culthighpriestofdemogorgon.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/cultpriestofdemogorgon.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/culthighpriestofdemogorgon.webp"
 						}
 					}
 				]
@@ -58436,14 +58439,14 @@
 				"MW",
 				"THW"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/hellfiredisciple.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/hellfiremaster.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/hellfiredisciple.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/hellfiremaster.webp"
 						}
 					}
 				]
@@ -58612,14 +58615,14 @@
 				"MW",
 				"THW"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/hellfiresteward.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/hellfiremaster.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/hellfiresteward.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/hellfiremaster.webp"
 						}
 					}
 				]
@@ -59349,14 +59352,14 @@
 				"stunned",
 				"unconscious"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/deathpriestexarchoforcus.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/deathpriestoforcus.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/deathpriestexarchoforcus.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/deathpriestoforcus.webp"
 						}
 					}
 				]
