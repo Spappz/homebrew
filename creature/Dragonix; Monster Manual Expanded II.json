@@ -41449,14 +41449,14 @@
 				"stunned",
 				"prone"
 			],
-			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/redcapstalker.png",
+			"tokenUrl": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/token/elderredcap.png",
 			"fluff": {
 				"images": [
 					{
 						"type": "image",
 						"href": {
 							"type": "external",
-							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/redcapstalker.webp"
+							"url": "https://raw.githubusercontent.com/Spappz/homebrew/mme2-working-branch/_img/MonsterManualExpanded2/elderredcap.webp"
 						}
 					}
 				]
