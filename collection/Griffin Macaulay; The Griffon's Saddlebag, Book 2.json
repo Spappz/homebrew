@@ -28,8 +28,8 @@
 		},
 		"edition": "classic",
 		"dateAdded": 1722887888,
-		"dateLastModified": 1756115829,
-		"_dateLastModifiedHash": "ad5fbaba2f"
+		"dateLastModified": 1761298207,
+		"_dateLastModifiedHash": "ab7b14d510"
 	},
 	"subclass": [
 		{
@@ -7737,9 +7737,6 @@
 							"Silver",
 							"Cold"
 						]
-					],
-					"footnotes": [
-						"Optional Footer"
 					]
 				}
 			],
@@ -10251,6 +10248,15 @@
 			],
 			"tier": "major",
 			"rarity": "very rare",
+			"reqAttune": "by a warlock or wizard",
+			"reqAttuneTags": [
+				{
+					"class": "warlock"
+				},
+				{
+					"class": "wizard"
+				}
+			],
 			"weight": 4,
 			"weaponCategory": "simple",
 			"property": [
@@ -13083,7 +13089,6 @@
 				}
 			],
 			"attachedSpells": {
-				"resourceName": "Ki",
 				"resource": {
 					"2": [
 						"calm emotions"
@@ -13091,7 +13096,8 @@
 					"3": [
 						"spirit guardians"
 					]
-				}
+				},
+				"resourceName": "Ki"
 			},
 			"lootTables": [
 				"Magic Item Table I|GriffonsSaddlebag2"
@@ -20473,6 +20479,12 @@
 			"baseItem": "quarterstaff|phb",
 			"tier": "major",
 			"rarity": "uncommon",
+			"reqAttune": "by a spellcaster",
+			"reqAttuneTags": [
+				{
+					"spellcasting": true
+				}
+			],
 			"weight": 4,
 			"weaponCategory": "simple",
 			"property": [
@@ -41340,9 +41352,6 @@
 							"6",
 							"{@condition Unconscious}, and can't remember the events of the last hour."
 						]
-					],
-					"footnotes": [
-						"Optional Footer"
 					]
 				},
 				"A creature suffers the effect of its current level of drunkenness as well as all lower levels. For example, a creature suffering level 2 drunkenness has a \u22122 penalty to Wisdom ({@skill Insight} and {@skill Perception}) checks, Strength and Dexterity saving throws, and Constitution saving throws to maintain concentration. However, it also gains a +2 bonus to saving throws against being {@condition frightened}, and its DC to resist being intimidated increases by 2.",
@@ -45923,9 +45932,6 @@
 							"6",
 							"{@condition Unconscious}, and can't remember the events of the last hour."
 						]
-					],
-					"footnotes": [
-						"Optional Footer"
 					]
 				},
 				"A creature suffers the effect of its current level of drunkenness as well as all lower levels. For example, a creature suffering level 2 drunkenness has a \u22122 penalty to Wisdom ({@skill Insight} and {@skill Perception}) checks, Strength and Dexterity saving throws, and Constitution saving throws to maintain concentration. However, it also gains a +2 bonus to saving throws against being {@condition frightened}, and its DC to resist being intimidated increases by 2.",

@@ -20,8 +20,8 @@
 		],
 		"edition": "classic",
 		"dateAdded": 1751123557,
-		"dateLastModified": 1756115829,
-		"_dateLastModifiedHash": "29954ec6b3"
+		"dateLastModified": 1760874333,
+		"_dateLastModifiedHash": "9a8788077b"
 	},
 	"feat": [
 		{
@@ -74,6 +74,12 @@
 		{
 			"name": "Arboreal Curse",
 			"source": "GrimHollowLairsEtharis",
+			"reprintedAs": [
+				{
+					"edition": "one",
+					"uid": "Arboreal Curse|GrimHollowPG24"
+				}
+			],
 			"level": 7,
 			"school": "T",
 			"time": [
@@ -139,6 +145,12 @@
 		{
 			"name": "Consume Mind",
 			"source": "GrimHollowLairsEtharis",
+			"reprintedAs": [
+				{
+					"edition": "one",
+					"uid": "Consume Mind|GrimHollowPG24"
+				}
+			],
 			"level": 4,
 			"school": "N",
 			"time": [
@@ -210,6 +222,12 @@
 		{
 			"name": "Heartseeker",
 			"source": "GrimHollowLairsEtharis",
+			"reprintedAs": [
+				{
+					"edition": "one",
+					"uid": "Heartseeker|GrimHollowPG24"
+				}
+			],
 			"level": 6,
 			"school": "V",
 			"time": [
@@ -282,6 +300,12 @@
 		{
 			"name": "Hunter Sense",
 			"source": "GrimHollowLairsEtharis",
+			"reprintedAs": [
+				{
+					"edition": "one",
+					"uid": "Hunter Sense|GrimHollowPG24"
+				}
+			],
 			"level": 0,
 			"school": "D",
 			"time": [
@@ -331,6 +355,12 @@
 		{
 			"name": "Magic Mirror",
 			"source": "GrimHollowLairsEtharis",
+			"reprintedAs": [
+				{
+					"edition": "one",
+					"uid": "Magic Mirror|GrimHollowPG24"
+				}
+			],
 			"level": 5,
 			"school": "A",
 			"time": [
@@ -380,6 +410,12 @@
 		{
 			"name": "Suffocate",
 			"source": "GrimHollowLairsEtharis",
+			"reprintedAs": [
+				{
+					"edition": "one",
+					"uid": "Suffocate|GrimHollowPG24"
+				}
+			],
 			"level": 3,
 			"school": "C",
 			"time": [
@@ -471,6 +507,12 @@
 		{
 			"name": "Wrack",
 			"source": "GrimHollowLairsEtharis",
+			"reprintedAs": [
+				{
+					"edition": "one",
+					"uid": "Wrack|GrimHollowPG24"
+				}
+			],
 			"level": 2,
 			"school": "N",
 			"time": [
