@@ -31,8 +31,8 @@
 			"LL:PF": "Pact Focus"
 		},
 		"dateAdded": 1658237901,
-		"dateLastModified": 1764955185,
-		"_dateLastModifiedHash": "91cc5fb014",
+		"dateLastModified": 1769126202,
+		"_dateLastModifiedHash": "3071f4edaa",
 		"edition": "classic"
 	},
 	"class": [
@@ -2777,7 +2777,7 @@
 					]
 				}
 			],
-			"foundryImg": "Placeholder",
+			"foundryImg": "icons/magic/unholy/silhouette-evil-horned-giant.webp",
 			"featureType": [
 				"LL:EInv"
 			],

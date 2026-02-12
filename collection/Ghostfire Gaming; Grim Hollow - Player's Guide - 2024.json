@@ -60,8 +60,8 @@
 		"edition": "one",
 		"status": "ready",
 		"dateAdded": 1755277200,
-		"dateLastModified": 1763480961,
-		"_dateLastModifiedHash": "1abdd9ff1b"
+		"dateLastModified": 1768661969,
+		"_dateLastModifiedHash": "b44106462d"
 	},
 	"class": [
 		{
@@ -11588,7 +11588,7 @@
 				"TG:TG"
 			],
 			"entries": [
-				"The head of an arrow or bolt is tipped with poison, loaded with an acid vial, dipped in flammable oil, or coated with another substance. As a {@variantrule Bonus Action|XPHB}, you imbue with elemental power a single piece of ammunition that can be fired from a Longbow, Shortbow, or Crossbow as part of an {@action Attack|XPHB} action. When a Elemental Ammunition is imbued, choose a damage type: Acid, Cold, Fire, Lightning, Poison, or Thunder. When a creature takes damage from the Elemental Ammunition, it takes an additional {@damage 2d6} damage of the chosen type.",
+				"The head of an arrow or bolt is tipped with poison, loaded with an acid vial, dipped in flammable oil, or coated with another substance. As a {@variantrule Bonus Action|XPHB}, you imbue with elemental power a single piece of ammunition that can be fired from a Longbow, Shortbow, or Crossbow as part of an {@action Attack|XPHB} action. When an Elemental Ammunition is imbued, choose a damage type: Acid, Cold, Fire, Lightning, Poison, or Thunder. When a creature takes damage from the Elemental Ammunition, it takes an additional {@damage 2d6} damage of the chosen type.",
 				"Elemental Ammunition discharges its energy if it hits, and it can't be recovered. If the attack misses, the Elemental Ammunition can be recovered and used again. Elemental Ammunition retains its power for 48 hours."
 			]
 		},
@@ -35433,7 +35433,7 @@
 				{
 					"name": "Natural Weapon",
 					"entries": [
-						"{@atkr m} Bonus equals your attack modifier using Strength, reach 5 ft. {@h}{@dice 1d4 + 2} plus your Rage Damage bonus Bludgeoning, Piercing, or Slashing damage (your choice when you summon the beast)."
+						"{@atkr m} Bonus equals your attack modifier using Strength, reach 5 ft. {@h}{@damage 1d4 + 2} plus your Rage Damage bonus Bludgeoning, Piercing, or Slashing damage (your choice when you summon the beast)."
 					]
 				}
 			],
@@ -35567,7 +35567,7 @@
 				{
 					"name": "Natural Weapon",
 					"entries": [
-						"{@atkr m} Bonus equals your attack modifier using Strength, reach 5 ft. {@h}{@dice 1d8 + 2} plus your Rage Damage bonus Bludgeoning, Piercing, or Slashing damage (your choice when you summon the beast)."
+						"{@atkr m} Bonus equals your attack modifier using Strength, reach 5 ft. {@h}{@damage 1d8 + 2} plus your Rage Damage bonus Bludgeoning, Piercing, or Slashing damage (your choice when you summon the beast)."
 					]
 				}
 			],
